@@ -1,0 +1,401 @@
+	HSBC GIF Turkey Equity EC	20,1870 EUR	EUR	Ações Turquia		20,86	24/06/2022	7			
+	Schroder ISF China Opps B Acc USD	399,1392 USD	USD	Ações China		-15,56	24/06/2022	6			
+	T. Rowe Price Dyn Glb Bd A USD	11,7500 USD	USD	Obrigações Flexível Globais		17,30	24/06/2022	4			
+	JPM China D (acc) USD	58,2500 USD	USD	Ações China		-28,37	24/06/2022	7			
+	JPM China D (acc) EUR	165,7500 EUR	EUR	Ações China		-28,18	24/06/2022	6			
+	T. Rowe Price Dyn Glb Inv Gr Bd A USD	11,1700 USD	USD	Obrigações Flexível Globais		15,91	24/06/2022	4			
+	Man GLG Glbl EM Dbt TR D USD Acc	108,4800 USD	USD	Obrigações Emergentes Globais		17,09	23/06/2022	5			
+	Pictet TR - Agora HP USD	190,0800 USD	USD	Alternativo Market Neutral - Ações USD		7,66	22/06/2022	4			
+	Fidelity China Focus A-Dis-USD	67,0100 USD	USD	Ações China		3,59	24/06/2022	6			
+	Man GLG Alpha Select Alt DLH USD	164,7800 USD	USD	Alternativo Market Neutral - Ações USD		24,88	23/06/2022	5			
+	abrdn China A Share Sus Eq A Acc USD	19,0018 USD	USD	Ações China - A Shares		-13,82	24/06/2022	6			
+	Neuberger Berman China Eq USD A Acc	28,7600 USD	USD	Ações China		-12,98	24/06/2022	6			
+	Schroder ISF Greater China B Acc USD	74,1117 USD	USD	Ações Grande China		-13,80	24/06/2022	6			
+	UBS (Lux) EF China Oppo(USD) P USD acc	1 381,9500 USD	USD	Ações China		-20,40	24/06/2022	6			
+	T. Rowe Price Dyn Glb Bd Ah EUR	10,4200 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		2,76	24/06/2022	4			
+	Pictet-USD Short Mid-Term Bonds R	131,5800 USD	USD	Obrigações Curto Prazo Diversificado USD		7,85	22/06/2022	2			
+	BlueBay Inv Grd Abs Ret Bd R USD	122,3000 USD	USD	Obrigações Flexível Globais-USD Hedged		9,88	22/06/2022	3			
+	BlueBay Inv Grd Abs Ret Bd R USD (AID)	95,5600 USD	USD	Obrigações Flexível Globais-USD Hedged		9,89	22/06/2022	3			
+	UBS (Lux) BS Glb S/T Flex $ USD P-acc	85,6800 USD	USD	Obrigações Globais USD Hedged		7,34	22/06/2022	3			
+	Man GLG Glbl EM Dbt TR D H EUR Acc	96,9900 EUR	EUR	Obrigações Emergentes Globais EUR Biased		2,35	23/06/2022	5			
+	BSF Asia Pacific Divers Eq AR E2 EUR H	109,7700 EUR	EUR	Alternativo Market Neutral - Ações EUR		-1,55	24/06/2022	4			
+	UBS (Lux) EF Greater China (USD) P	469,5400 USD	USD	Ações Grande China		-18,02	24/06/2022	6			
+	Man GLG Innovation Eq Alt DN USD Acc	120,0500 USD	USD	Ações Long/Short Global		4,16	23/06/2022	4			
+	Rubrics Emerg Mkts Fxd Inc UCITS D USD	121,4600 USD	USD	Obrigações Emergentes Moeda Local		6,53	23/06/2022	3			
+	DWS Concept Kaldemorgen USD LCH	147,6900 USD	USD	Mistos Flexíveis USD		13,94	24/06/2022	4			
+	HSBC GIF Global Short Dur Bd AC	10,9310 USD	USD	Obrigações Globais USD Hedged		8,28	24/06/2022	2			
+	Pictet TR - Atlas HP USD	128,5600 USD	USD	Ações Long/Short Global		9,75	22/06/2022	3			
+	Allianz China A Shares AT USD	15,2600 USD	USD	Ações China - A Shares		-12,34	24/06/2022	6			
+	GS EM ShortDur Bd USD Base Inc	92,6500 USD	USD	Obrigações Emergentes Globais		5,21	24/06/2022	4			
+	GS EM ShortDur Bd USD Base Acc	102,2300 USD	USD	Obrigações Emergentes Globais		5,20	24/06/2022	4			
+	Allianz China A Shares A EUR	160,9100 EUR	EUR	Ações China - A Shares		-12,30	24/06/2022	6			
+	BSF Emerging Mkts Shrt Dur Bd E2 EUR	119,5100 EUR	EUR	Obrigações Emergentes Globais		-0,34	24/06/2022	5			
+	Pictet TR - Agora P dy EUR	125,6200 EUR	EUR	Alternativo Market Neutral - Ações EUR		-5,14	22/06/2022	4			
+	Pictet TR - Agora P EUR	125,5700 EUR	EUR	Alternativo Market Neutral - Ações EUR		-5,15	22/06/2022	4			
+	Neuberger Berman Shrt DurEM DbtUSD A Acc	11,1400 USD	USD	Obrigações Emergentes Globais		1,78	24/06/2022	3			
+	Schroder ISF Emerging Asia B Acc USD	44,5807 USD	USD	Ações Ásia ex Japão		-6,96	24/06/2022	6			
+	Neuberger Berman Shrt DurEM DbtUSD A Inc	8,1400 USD	USD	Obrigações Emergentes Globais		1,79	24/06/2022	3			
+	Schroder ISF Emerging Asia B Acc EUR	42,3905 EUR	EUR	Ações Ásia ex Japão		-6,57	24/06/2022	6			
+	HSBC GIF Global Bond Total Ret AC	10,9290 USD	USD	Obrigações Flexível Globais		3,15	24/06/2022	3			
+	RAM (Lux) Tactical Glb Bd Total Rtrn F	147,2200 USD	USD	Obrigações Flexível Globais		2,79	22/06/2022	3			
+	Nomura Fds Asia Investment Grd Bd A EUR	116,7416 EUR	EUR	Obrigações Ásia		3,08	24/06/2022	4			
+	BGF China Bond E2 EUR	17,4800 EUR	EUR	Obrigações China		3,31	24/06/2022	5			
+	NN (L) EmMkts Dbt (LclCcy) X Cap USD	44,5900 USD	USD	Obrigações Emergentes Moeda Local		2,20	24/06/2022	4			
+	Fidelity Indonesia A-Dis-USD	26,8900 USD	USD	Ações Indonésia		28,13	24/06/2022	6			
+	Jupiter Global EM Sht Dur Bd L USD M Inc	85,8000 USD	USD	Obrigações Emergentes Globais		0,08	24/06/2022	3			
+	Allianz China Strategic Bond A USD	6,4200 USD	USD	Obrigações Alto Rendimento Grande China		-11,39	24/06/2022	4			
+	MS INVF Global Fixed Income Opps A	35,2600 USD	USD	Obrigações Flexível Globais		4,29	24/06/2022	3			
+	MS INVF Global Fixed Income Opps AX	26,2100 USD	USD	Obrigações Flexível Globais		4,26	24/06/2022	3			
+	Fidelity Asian Bond A-Acc-USD	14,0700 USD	USD	Obrigações Ásia		0,34	24/06/2022	4			
+	Allianz Renminbi Fixed Income A USD	10,4200 USD	USD	Obrigações RMB Local		11,82	24/06/2022	3			
+	JupiterMerian Glb Eq AbsRt L € H Acc	1,2988 EUR	EUR	Alternativo Market Neutral - Ações EUR		4,76	24/06/2022	4			
+	Man GLG Alpha Select Alt DLH EUR	149,5200 EUR	EUR	Alternativo Market Neutral - Ações EUR		9,19	23/06/2022	5			
+	GS Em Mkts Ttl Ret Bd Base Inc USD	86,3600 USD	USD	Obrigações Emergentes Globais		1,70	24/06/2022	4			
+	GS Em Mkts Ttl Ret Bd Base Acc USD	99,8800 USD	USD	Obrigações Emergentes Globais		1,77	24/06/2022	4			
+	MS INVF Global Infrastructure A	66,9900 USD	USD	Ações Sector Infra-estrutura		7,93	24/06/2022	6			
+	BGF World Healthscience E2	54,6100 USD	USD	Ações Sector Saúde		6,17	24/06/2022	6			
+	BGF World Healthscience E2 EUR	51,7600 EUR	EUR	Ações Sector Saúde		6,33	24/06/2022	6			
+	Nordea 1 - European Covered Bd Op E EUR	106,0900 EUR	EUR	Obrigações Corp. EUR		-1,27	24/06/2022	3			
+	NN (L) Health Care X Cap EUR	1 103,6400 EUR	EUR	Ações Sector Saúde		5,93	24/06/2022	6			
+	NN (L) Health Care X Cap USD	2 467,5300 USD	USD	Ações Sector Saúde		5,93	24/06/2022	6			
+	JPM Europe Eq Abs Alp D perf (acc) EUR	110,7900 EUR	EUR	Alternativo Market Neutral - Ações EUR		9,79	24/06/2022	4			
+	BPI GIF Iberia R	5,4920 EUR	EUR	Ações Espanha		0,15	22/06/2022	6			
+	UBS(Lux) BS Glb Infl Lnkd$ P-acc	137,3500 USD	USD	Obrigações Globais Inflation Linked - USD Hedged		7,37	22/06/2022	4			
+	JPM Aggregate Bond D (acc) USD	115,2900 USD	USD	Obrigações Globais USD Hedged		3,19	24/06/2022	3			
+	JPM Greater China D (acc) USD	64,3600 USD	USD	Ações Grande China		-25,11	24/06/2022	6			
+	PIMCO GIS Glb Bd Ex-US E USD Inc	14,8800 USD	USD	Obrigações Globais USD Hedged		2,40	24/06/2022	3			
+	JPM Greater China D (acc) EUR	213,2900 EUR	EUR	Ações Grande China		-24,91	24/06/2022	6			
+	Fidelity Iberia E-Acc-EUR	41,8300 EUR	EUR	Ações Espanha		-12,64	24/06/2022	6			
+	Capital Group EM Local Debt (LUX) B	9,2900 USD	USD	Obrigações Emergentes Moeda Local		-5,68	24/06/2022	4			
+	Schroder ISF BRIC B Acc USD	209,3792 USD	USD	Ações BRIC		-22,94	24/06/2022	6			
+	Man GLG Glbl EM Lcl Ccy Rts D C USD	101,2300 USD	USD	Obrigações Emergentes Moeda Local		2,66	23/06/2022	4			
+	M&G (Lux) Global Target Return A EUR Acc	10,2650 EUR	EUR	Alternativo Trading Macro EUR		-0,32	24/06/2022	4			
+	Man GLG Glbl EM Lcl Ccy Rts D C EUR	109,4100 EUR	EUR	Obrigações Emergentes Moeda Local		2,67	23/06/2022	4			
+	DWS Invest Global Infras NC	179,3000 EUR	EUR	Ações Sector Infra-estrutura		11,64	24/06/2022	6			
+	Schroder ISF BRIC B Acc EUR	199,0017 EUR	EUR	Ações BRIC		-22,61	24/06/2022	6			
+	NN (L) Alternative Beta X Cap EUR	466,4200 EUR	EUR	Alternativo Multiestratégia USD		6,77	24/06/2022	4			
+	NN (L) Alternative Beta X Cap USD	336,2900 USD	USD	Alternativo Multiestratégia USD		6,77	24/06/2022	4			
+	Capital Group EM Local Debt (LUX) B EUR	8,8000 EUR	EUR	Obrigações Emergentes Moeda Local		-5,78	24/06/2022	4			
+	Heed EuroBic Tesouraria A FIMA	5,7267 EUR	EUR	Obrigações Ultra Curto Prazo EUR		-2,71	23/06/2022	2			
+	HSBC GIF Mgd Solu AsiaFocusCnsrv AC	12,0850 USD	USD	Mistos Ásia		-3,91	24/06/2022	4			
+	PIMCO GIS Glb Bd E USD Acc	27,7900 USD	USD	Obrigações Globais USD Hedged		0,97	24/06/2022	3			
+	DWS Invest CROCI US Dividends USD LD	252,0900 USD	USD	Ações EUA Cap. Grande Valor		16,73	24/06/2022	6			
+	BlueBay Inv Grd Abs Ret Bd R EUR	107,2900 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-3,18	22/06/2022	3			
+	BlueBay Inv Grd Abs Ret Bd R EUR (AID)	86,1500 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-3,17	22/06/2022	3			
+	DWS Invest CROCI US Dividends USD LC	301,3800 USD	USD	Ações EUA Cap. Grande Valor		16,72	24/06/2022	6			
+	IMGA Euro Taxa Variável R FIMA	4,7996 EUR	EUR	Obrigações Curto Prazo Diversificado EUR		-3,84	22/06/2022	2			
+	UBS (Lux) BS Glb S/T Flex $ EUR H P-acc	96,8000 EUR	EUR	Obrigações Globais EUR Hedge		-5,36	22/06/2022	3			
+	Fidelity US Dollar Bond A-Dis-USD	7,2040 USD	USD	Obrigações Diversificado USD		0,14	24/06/2022	3			
+	GS Global Infras Eq Base Acc USD	14,0400 USD	USD	Ações Sector Infra-estrutura		10,20	24/06/2022	5			
+	GS Global Infras Eq Oth Ccy Acc EUR	14,1700 EUR	EUR	Ações Sector Infra-estrutura		10,36	24/06/2022	5			
+	Vontobel Sust Em Mkts LC Bd B USD	85,1400 USD	USD	Obrigações Emergentes Moeda Local		-4,15	22/06/2022	4			
+	M&G (Lux) Glb Corp Bd A USD Acc	13,0169 USD	USD	Obrigações Corp. Globais - USD Hedged		0,03	24/06/2022	4			
+	M&G (Lux) Glb Corp Bd A USD Inc	10,7574 USD	USD	Obrigações Corp. Globais - USD Hedged		0,03	24/06/2022	4			
+	Vontobel Sust Em Mkts LC Bd B EUR	100,2000 EUR	EUR	Obrigações Emergentes Moeda Local		-4,15	22/06/2022	4			
+	M&G (Lux) Em Mkts Inc Opps A USD Acc	11,6081 USD	USD	Mistos Mercados Emergentes Globais		4,59	06/05/2022	5			
+	M&G (Lux) Em Mkts Inc Opps A M USD Inc	9,0173 USD	USD	Mistos Mercados Emergentes Globais		4,59	06/05/2022	5			
+	M&G (Lux) Em Mkts Inc Opps A USD Inc	9,0258 USD	USD	Mistos Mercados Emergentes Globais		4,59	06/05/2022	5			
+	AB Short Duration High Yield AT USD	13,5000 USD	USD	Obrigações Alto Rend. Globais		2,63	24/06/2022	4			
+	T. Rowe Price Asian Opp Eq A USD	16,4700 USD	USD	Ações Ásia ex Japão		-13,56	24/06/2022	6			
+	AB Short Duration High Yield A2 USD	20,5100 USD	USD	Obrigações Alto Rend. Globais		2,60	24/06/2022	4			
+	Caixagest Obrigações FIMAO	4,3116 EUR	EUR	Obrigações Curto Prazo Diversificado EUR		-3,89	22/06/2022	2			
+	Carmignac Pf Global Bond Inc A EUR	91,8000 EUR	EUR	Obrigações Globais		-1,88	23/06/2022	3			
+	Neuberger Berman Strat Inc A USD Acc	11,3700 USD	USD	Obrigações Flexíveis USD		1,34	24/06/2022	4			
+	Fidelity FAST Global E-ACC-EUR	259,6100 EUR	EUR	Ações Global Cap. Flexível		19,58	24/06/2022	6			
+	Carmignac Pf Global Bond A EUR Acc	1 486,5700 EUR	EUR	Obrigações Globais		-1,89	23/06/2022	3			
+	Neuberger Berman Strat Inc A USD MD	8,3000 USD	USD	Obrigações Flexíveis USD		1,37	24/06/2022	4			
+	JPM Emerg Mkts Inv Grd Bd D (acc) USD	109,1500 USD	USD	Obrigações Emergentes Globais		-5,41	24/06/2022	4			
+	March International Iberia A EUR	12,9939 EUR	EUR	Ações Espanha		0,59	21/06/2022	6			
+	M&G (Lux) Optimal Income A H USD Acc	10,1465 USD	USD	Mistos Defensivos USD		-0,21	24/06/2022	4			
+	MS INVF Global Brands Eq Inc A	39,8600 USD	USD	Ações Global Cap. Grande Misto		2,63	24/06/2022	5			
+	Vanguard Glbl Sh-Tm Bd Idx Inv EURH Acc	97,8681 EUR	EUR	Obrigações Globais EUR Hedge		-5,97	24/06/2022	2			
+	M&G (Lux) Short Dtd Corp Bd A EUR Inc	9,1596 EUR	EUR	Obrigações Corp. Curto Prazo EUR		-3,97	24/06/2022	2			
+	M&G (Lux) Short Dtd Corp Bd A EUR Acc	10,4460 EUR	EUR	Obrigações Corp. Curto Prazo EUR		-3,97	24/06/2022	2			
+	Nordea 1 - Alpha 7 MA Fd E EUR	102,8800 EUR	EUR	Alternativo Multiestratégia EUR		-2,53	24/06/2022	4			
+	BGF ESG Multi-Asset E2 USD H	42,9800 USD	USD	Mistos Moderados USD		9,10	24/06/2022	4			
+	BNP Paribas China Eq N C	416,4900 USD	USD	Ações China		-27,92	22/06/2022	6			
+	Schroder ISF EM Dbt Abs Rt B Acc USD	21,2098 USD	USD	Obrigações Emergentes Moeda Local		-6,67	24/06/2022	4			
+	Schroder ISF EM Dbt Abs Rt B Dis USD Q	9,4166 USD	USD	Obrigações Emergentes Moeda Local		-6,67	24/06/2022	4			
+	M&G (Lux) Absolute Return Bond A EUR Inc	8,8780 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-6,03	24/06/2022	3			
+	M&G (Lux) Absolute Return Bond A EUR Acc	9,9632 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-6,03	24/06/2022	3			
+	MFS Meridian Prudent Wealth A1 USD	20,1100 USD	USD	Mistos Moderados USD		-0,28	24/06/2022	4			
+	JPM Asia Pacific Income D (acc) USD	29,9400 USD	USD	Mistos Ásia		-1,04	24/06/2022	5			
+	Janus Henderson Glb Life Scn A2 USD	43,8500 USD	USD	Ações Sector Saúde		0,66	24/06/2022	6			
+	MFS Meridian Prudent Wealth A1 EUR	23,7500 EUR	EUR	Mistos Moderados USD		-0,38	24/06/2022	4			
+	Fidelity Asian Smaller Coms A-Acc-USD	24,5400 USD	USD	Ações Ásia ex Japão Cap. Peq/Média		-0,69	24/06/2022	6			
+	Amundi Fds Glb MA Trg Inc A2 EUR QTI D	51,6900 EUR	EUR	Mistos Defensivos USD		6,23	24/06/2022	4			
+	GS EM ShortDur Bd EURH E Acc	95,5200 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-8,16	24/06/2022	4			
+	Fidelity Asian Smaller Coms A-Acc-EUR	31,1700 EUR	EUR	Ações Ásia ex Japão Cap. Peq/Média		-0,67	24/06/2022	5			
+	BSF European Absolute Return E2 EUR	141,6600 EUR	EUR	Alternativo Market Neutral - Ações EUR		1,88	24/06/2022	4			
+	Muzinich EmergingMktsShrtDur HEUR Acc R	97,6300 EUR	EUR	Obrigações Corp. Emergentes Globais EUR Biased		-10,24	24/06/2022	3			
+	MS INVF Global Brands A USD	180,1500 USD	USD	Ações Global Cap. Grande Misto		3,35	24/06/2022	5			
+	Man GLG Global Em Mkts Bd D C USD	108,2300 USD	USD	Obrigações Emergentes Globais		-0,69	23/06/2022	4			
+	Man GLG Global Em Mkts Bd D C EUR	115,0300 EUR	EUR	Obrigações Emergentes Globais		-0,95	23/06/2022	4			
+	M&G (Lux) Global Listed Infras A USD Inc	12,0525 USD	USD	Ações Sector Infra-estrutura		6,42	24/06/2022	6			
+	M&G (Lux) Global Listed Infras A USD Acc	13,7518 USD	USD	Ações Sector Infra-estrutura		6,42	24/06/2022	6			
+	Amundi Fds RlAssts Trgt Inc A2€ C	58,9600 EUR	EUR	Mistos Moderados USD		7,26	24/06/2022	4			
+	BSF Emerging Mkts Shrt Dur Bd E2 EUR H	93,4300 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-13,15	24/06/2022	5			
+	abrdn GDP WtdGlb GovtBd A Acc USD	9,7181 USD	USD	Obrigações Globais		-2,61	24/06/2022	3			
+	M&G (Lux) Global Listed Infras A EUR Acc	15,3138 EUR	EUR	Ações Sector Infra-estrutura		6,63	24/06/2022	6			
+	M&G (Lux) Global Listed Infras A EUR Inc	13,4280 EUR	EUR	Ações Sector Infra-estrutura		6,60	24/06/2022	6			
+	Nordea 1 - Alpha 10 MA Fd E EUR	12,7300 EUR	EUR	Alternativo Multiestratégia EUR		-2,60	24/06/2022	4			
+	Neuberger Berman Shrt DurEM DbtEUR A Acc	9,5700 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-10,89	24/06/2022	3			
+	Fidelity US High Yield A-Acc-USD	15,2600 USD	USD	Obrigações Alto Rend. USD		1,95	24/06/2022	4			
+	abrdn GDP WtdGlb GovtBd A Acc EUR	12,4635 EUR	EUR	Obrigações Globais		-2,41	24/06/2022	4			
+	abrdn GDP WtdGlb GovtBd A SIncEUR	11,1384 EUR	EUR	Obrigações Globais		-2,42	24/06/2022	4			
+	Neuberger Berman Shrt DurEM DbtEUR A Inc	7,1800 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-10,85	24/06/2022	3			
+	ODDO BHF Sust Crdt Opps CR-EUR	101,3870 EUR	EUR	Obrigações Flexíveis EUR		-7,35	22/06/2022	3			
+	ODDO BHF Sust Crdt Opps DR-EUR	97,8500 EUR	EUR	Obrigações Flexíveis EUR		-7,35	22/06/2022	3			
+	Capital Group GlobHiInc (LUX) Bgd USD	12,9800 USD	USD	Obrigações Flexível Globais		-4,08	24/06/2022	4			
+	Capital Group GlobHiInc (LUX) B USD	38,6900 USD	USD	Obrigações Flexível Globais		-4,12	24/06/2022	4			
+	BNY Mellon Glbl Rl Ret (EUR) A Inc	1,1377 EUR	EUR	Mistos Flexíveis EUR - Global		-6,67	24/06/2022	4			
+	Fidelity US High Yield A-Dis-USD	10,9700 USD	USD	Obrigações Alto Rend. USD		1,91	24/06/2022	4			
+	Fidelity Asia Pacific Div A-Dis-USD	27,6200 USD	USD	Ações Ásia Pacífico ex Japão		2,48	24/06/2022	6			
+	M&G (Lux) Em Mkts Bd A USD Acc	9,7084 USD	USD	Obrigações Emergentes Globais		-8,41	24/06/2022	4			
+	AB Intl Health Care C USD	441,7500 USD	USD	Ações Sector Saúde		8,40	24/06/2022	6			
+	NN (L) US Credit X Cap USD	1 362,2600 USD	USD	Obrigações Corp. USD		-4,51	24/06/2022	4			
+	Capital Group GlobHiInc (LUX) Bgd	12,3000 EUR	EUR	Obrigações Flexível Globais		-4,13	24/06/2022	4			
+	Capital Group GlobHiInc (LUX) B	36,6500 EUR	EUR	Obrigações Flexível Globais		-4,18	24/06/2022	4			
+	M&G (Lux) Em Mkts Bd A EUR Acc	10,8357 EUR	EUR	Obrigações Emergentes Globais		-8,23	24/06/2022	4			
+	Jupiter Dynamic Bd L $ Hsc Q Inc	9,7700 USD	USD	Obrigações Flexível Globais-USD Hedged		-1,15	24/06/2022	3			
+	RAM (Lux) Sys L/S European Eq B EUR	146,0600 EUR	EUR	Alternativo Market Neutral - Ações EUR		5,08	22/06/2022	5			
+	MS INVF Euro Corporate Bd - Dur Hgd A	27,9500 EUR	EUR	Obrigações Corp. EUR		-7,11	24/06/2022	3			
+	AB International HC C EUR	418,3800 EUR	EUR	Ações Sector Saúde		8,29	24/06/2022	6			
+	T. Rowe Price Rspnb Glb Aggt Bd A USD	16,8000 USD	USD	Obrigações Globais		-4,13	24/06/2022	3			
+	T. Rowe Price Rspnb Glb Aggt Bd A EUR	10,1100 EUR	EUR	Obrigações Globais		-3,81	24/06/2022	3			
+	BSF Managed Index Port Mod A2 USD H	139,8900 USD	USD	Mistos Moderados USD		5,15	24/06/2022	4			
+	BGF Asian Dragon E2	41,0400 USD	USD	Ações Ásia ex Japão		-11,62	24/06/2022	6			
+	JPM Global Income D (acc) USDH	190,4900 USD	USD	Mistos Moderados USD		1,44	24/06/2022	4			
+	JPM Global Income D (div) USDH	125,6900 USD	USD	Mistos Moderados USD		1,41	24/06/2022	4			
+	GS Global MA Inc Base Acc USD	129,5500 USD	USD	Mistos Moderados USD		0,72	24/06/2022	4			
+	GS Global MA Inc Base Inc USD	105,0000 USD	USD	Mistos Moderados USD		0,72	24/06/2022	4			
+	BGF Asian Dragon E2 EUR	38,9000 EUR	EUR	Ações Ásia ex Japão		-11,49	24/06/2022	6			
+	Muzinich LongShortCreditYld HEUR Acc NR	108,7400 EUR	EUR	Obrigações Alto Rend. Globais - EUR Hedged		-6,80	24/06/2022	3			
+	JPM Global Macro Opps D (acc) EUR	145,5300 EUR	EUR	Alternativo Trading Macro EUR		-10,83	24/06/2022	5			
+	Nomura Fds US High Yield Bond A USD	176,1154 USD	USD	Obrigações Alto Rend. USD		0,45	24/06/2022	4			
+	UBS(LUX) ES Glb HD Ss USD P-acc	203,7800 USD	USD	Ações Global Dividendo Alto		7,59	22/06/2022	6			
+	Fidelity Asia Pacific Opps E-Acc-EUR	27,1100 EUR	EUR	Ações Ásia Pacífico ex Japão		-9,78	24/06/2022	6			
+	Amundi Fds Abs Ret MS A EUR C	61,4100 EUR	EUR	Alternativo Trading Macro EUR		-5,03	24/06/2022	4			
+	M&G (Lux) Sustainable Allc AH USD Inc	10,4864 USD	USD	Mistos Moderados USD		4,60	24/06/2022	4			
+	Amundi Fds Global Bond G USD C	24,0800 USD	USD	Obrigações Globais		-6,05	22/06/2022	4			
+	Jupiter Global EM Sht Dur Bd L EUR Q Inc	80,2900 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-12,44	24/06/2022	3			
+	M&G (Lux) Sustainable Allc AH USD Acc	11,5256 USD	USD	Mistos Moderados USD		4,50	24/06/2022	4			
+	Nomura Fds US High Yield Bond A EUR	225,5894 EUR	EUR	Obrigações Alto Rend. USD		0,59	24/06/2022	4			
+	JPM Global Aggregate Bond D (acc) USD	14,6900 USD	USD	Obrigações Globais		-3,79	24/06/2022	4			
+	Eurizon Global Bond R EUR	103,9200 EUR	EUR	Obrigações Globais		-3,64	22/06/2022	3			
+	Capital Group EM Tot Opp (LUX) Bgd	7,7500 USD	USD	Mistos Mercados Emergentes Globais		-11,42	24/06/2022	5			
+	Capital Group EM Tot Opp (LUX) B	11,8500 USD	USD	Mistos Mercados Emergentes Globais		-11,41	24/06/2022	5			
+	MS INVF Global Fixed Income Opps AHX EUR	22,8900 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-8,84	24/06/2022	3			
+	MS INVF Global Convertible Bond A USD	53,3700 USD	USD	Obrigações Convertíveis Global - USD Hedged		-4,64	24/06/2022	4			
+	Nordea 1 - Alpha 15 MA Fd E EUR	80,2600 EUR	EUR	Alternativo Multiestratégia EUR		-3,43	24/06/2022	5			
+	UBAM Dr Ehrhardt German Equity RC EUR	1 755,6700 EUR	EUR	Ações Alemanha		0,09	22/06/2022	5			
+	UBS (Lux) SF Yield Sust $ P-acc	3 421,8300 USD	USD	Mistos Defensivos USD		-2,95	22/06/2022	4			
+	Alken Small Cap Europe R	266,3900 EUR	EUR	Ações Europa Cap. Pequena		10,59	22/06/2022	6			
+	UBAM Global High Yield Solution RC USD	168,3100 USD	USD	Obrigações Alto Rend. Globais		-0,21	22/06/2022	4			
+	MFS Meridian Emerging Mkts Dbt A1 USD	35,1800 USD	USD	Obrigações Emergentes Globais		-8,74	24/06/2022	4			
+	Capital Group EM Tot Opp (LUX) Bgd EUR	7,3400 EUR	EUR	Mistos Mercados Emergentes Globais		-11,43	24/06/2022	5			
+	Capital Group EM Tot Opp (LUX) B EUR	11,2200 EUR	EUR	Mistos Mercados Emergentes Globais		-11,51	24/06/2022	5			
+	JPM Global Balanced D (acc) USDH	191,5700 USD	USD	Mistos Moderados USD		0,10	24/06/2022	4			
+	AB US High Yield A2 USD	21,6400 USD	USD	Obrigações Alto Rend. USD		-1,50	24/06/2022	4			
+	Allianz Em Mkts Shrt Dur Bd AM H2 EUR	7,8400 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-14,58	24/06/2022	3			
+
+	Invesco Global Ttl Ret EUR Bd E EUR Acc	13,4769 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-6,84	24/06/2022	3			
+	Invesco Global Ttl Ret EUR Bd E EUR QD	11,0116 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-6,84	24/06/2022	3			
+	MFS Meridian Global Total Ret A1 USD	36,0700 USD	USD	Mistos Moderados USD		-0,08	24/06/2022	5			
+	AB Low Volatility Eq A USD	33,7900 USD	USD	Ações Global Cap. Grande Misto		6,82	24/06/2022	6			
+	MFS Meridian Global Total Ret A2 USD	28,5200 USD	USD	Mistos Moderados USD		-0,08	24/06/2022	5			
+	GS Em Mkts Ttl Ret Bd E Acc EUR Hdg	89,2900 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-11,42	24/06/2022	4			
+	Fidentiis Tordesillas SICAV Iberia A	14,8260 EUR	EUR	Ações Espanha		-8,01	22/06/2022	6			
+	abrdn Frntr Mkts Bd A MInc USD	7,5336 USD	USD	Obrigações Emergentes Globais		-8,54	24/06/2022	4			
+	abrdn Frntr Mkts Bd A Acc USD	9,6425 USD	USD	Obrigações Emergentes Globais		-8,54	24/06/2022	4			
+	Fidelity Global Bond A-Dis-USD	1,0660 USD	USD	Obrigações Globais		-6,18	24/06/2022	4			
+	PIMCO GIS Glb Bd E USD Ccy Exps Acc	11,8900 USD	USD	Obrigações Globais		-5,76	24/06/2022	4			
+	BlueBay Global High Yield Bd R USD	146,4900 USD	USD	Obrigações Alto Rend. Globais		-4,17	22/06/2022	4			
+	BNP Paribas Europe Sm Cp Cnvrt N D	154,7400 EUR	EUR	Obrigações Convertíveis Europa		-7,11	22/06/2022	4			
+	Invesco Real Return (EUR) Bond E EUR Acc	15,4435 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-5,14	24/06/2022	4			
+	MFS Meridian Global Total Ret A1 EUR	23,5600 EUR	EUR	Mistos Moderados USD		-0,21	24/06/2022	4			
+	MS INVF Global Bond A	39,3700 USD	USD	Obrigações Globais		-6,19	24/06/2022	4			
+	Heed EuroBic Investimento FIMA	10,9598 EUR	EUR	Mistos Defensivos EUR		-7,60	23/06/2022	4			
+	Fidelity Thailand A-Dis-USD	45,7600 USD	USD	Ações Tailândia		1,11	24/06/2022	6			
+	FvS Bond Opportunities RT	108,0600 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-10,29	24/06/2022	3			
+	Fidelity European Div A-Acc-EUR	19,5700 EUR	EUR	Ações Europa		-0,71	24/06/2022	6			
+	Legg Mason WA EM TR Bd A EURH Acc	119,0800 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-15,95	24/06/2022	4			
+	Alken European Opportunities A	225,1600 EUR	EUR	Ações Europa Cap. Flexível		9,80	22/06/2022	6			
+	UBS (Lux) BF Global Flex P acc	766,7100 CHF	CHF	Obrigações Globais CHF Hedged		-6,80	22/06/2022	4			
+	Capital Group American Bal (LUX) B	9,0500 USD	USD	Mistos Moderados USD		3,74	24/06/2022	5			
+	Schroder ISF Asian Opports B Acc USD	17,4334 USD	USD	Ações Ásia ex Japão		-15,27	24/06/2022	6			
+	Schroder ISF Glb Crdt Hi IncB Dis M	65,2550 USD	USD	Obrigações Emergentes Globais		-3,08	24/06/2022	4			
+	Candriam Eqs L Oncology Imp C USD Cap	233,4200 USD	USD	Ações Sector Saúde		-5,87	22/06/2022	6			
+	BNY Mellon Global Em Mkts EUR A Acc	1,4502 EUR	EUR	Ações Emergentes Global		-16,23	24/06/2022	6			
+	BNY Mellon Global Em Mkts EUR A Inc	1,2843 EUR	EUR	Ações Emergentes Global		-16,23	24/06/2022	6			
+	MS INVF Global Quality A	48,7700 USD	USD	Ações Global Cap. Grande Misto		-1,44	24/06/2022	5			
+	AB EM Multi-Asset A USD	15,1200 USD	USD	Mistos Mercados Emergentes Globais		-14,41	24/06/2022	5			
+	NN (L) Em Mkts Dbt Hrd Ccy X Cap USD	304,1400 USD	USD	Obrigações Emergentes Globais		-12,07	24/06/2022	4			
+	Schroder ISF Asian Opports B Acc EUR	16,5461 EUR	EUR	Ações Ásia ex Japão		-14,91	24/06/2022	6			
+	M&G (Lux) Japan Smlr Comps A USD Acc	14,7867 USD	USD	Ações Japão Cap. Peq/Média		-4,47	24/06/2022	6			
+	JPM Total Emerging Mkts Inc D (acc) USD	103,6600 USD	USD	Mistos Mercados Emergentes Globais		-6,68	24/06/2022	5			
+	BGF Global Allocation E2	58,9800 USD	USD	Mistos Moderados USD		-5,11	24/06/2022	5			
+	ODDO BHF Polaris Moderate CR EUR	106,4000 EUR	EUR	Mistos Defensivos EUR		-5,86	23/06/2022	3			
+	JPM Total Emerging Mkts Inc D (acc) EUR	98,3600 EUR	EUR	Mistos Mercados Emergentes Globais		-6,45	24/06/2022	5			
+	ODDO BHF Polaris Moderate DRW EUR	67,8200 EUR	EUR	Mistos Defensivos EUR		-5,67	23/06/2022	3			
+	Vanguard Glb S/T Corp Bd Idx £ H Acc	100,2534 GBP	GBP	Obrigações Corp. Globais - GBP Hedged		-6,43	24/06/2022	3			
+	BGF Global Allocation E2 EUR	55,9000 EUR	EUR	Mistos Moderados USD		-4,98	24/06/2022	5			
+	BNY Mellon Global Hi Yld Bd A EUR Acc	2,5784 EUR	EUR	Obrigações Alto Rend. Globais		-1,50	24/06/2022	4			
+	Capital Group American Bal (LUX) B EUR	8,5700 EUR	EUR	Mistos Moderados USD			24/06/2022	5			
+	AB EM Multi-Asset A USD EUR	14,3200 EUR	EUR	Mistos Mercados Emergentes Globais		-14,51	24/06/2022	5			
+	M&G (Lux) Japan Smlr Comps A EUR Acc	36,5564 EUR	EUR	Ações Japão Cap. Peq/Média		-4,28	24/06/2022	6			
+	Nomura Fds Glbl Sust Hi Yld Bd A EUR	158,4305 EUR	EUR	Obrigações Alto Rend. Globais		-4,22	24/06/2022	4			
+	Capital Group Glob Alloc (LUX) Bd USD	18,1700 USD	USD	Mistos Moderados USD		-0,27	24/06/2022	4			
+	NB Rendimento Plus FIMAO	9,3403 EUR	EUR	Obrigações Flexíveis EUR		-9,63	24/06/2022	3			
+	M&G (Lux) Eurp Strat Val A USD Acc	10,2546 USD	USD	Ações Europa Cap. Grande Valor		3,08	24/06/2022	6			
+	Allianz Total Return Asian Eq AT USD	39,8200 USD	USD	Ações Ásia ex Japão		-21,29	24/06/2022	6			
+	Capital Group Glob Alloc (LUX) B USD	18,8100 USD	USD	Mistos Moderados USD		-0,21	24/06/2022	4			
+	JPM Aggregate Bond D (acc) EURH	75,6400 EUR	EUR	Obrigações Globais EUR Hedge		-9,81	24/06/2022	3			
+	Amundi Fds Multi-Strat Gr A EUR C	71,1900 EUR	EUR	Alternativo Trading Macro EUR		-6,19	22/06/2022	5			
+	Candriam Bds Global Hi Yld N EUR Cap	204,0600 EUR	EUR	Obrigações Alto Rend. Globais - EUR Hedged		-8,51	22/06/2022	4			
+	MFS Meridian Continen Eurp Eq A1 USD	24,4400 USD	USD	Ações Europa ex R.U.		-5,65	24/06/2022	6			
+	T. Rowe Price Glb Alloc A USD	13,8300 USD	USD	Mistos Moderados USD		-3,62	24/06/2022	5			
+	M&G (Lux) Eurp Strat Val A EUR Acc	11,4001 EUR	EUR	Ações Europa Cap. Grande Valor		3,29	24/06/2022	6			
+	Allianz Total Return Asian Eq A EUR	133,2300 EUR	EUR	Ações Ásia ex Japão		-21,27	24/06/2022	6			
+	Capital Group Glob Alloc (LUX) Bd	17,2100 EUR	EUR	Mistos Moderados USD		-0,29	24/06/2022	4			
+	BlueBay EMkt Inv Grd Corp Bd R EUR	112,4200 EUR	EUR	Obrigações Corp. Emergentes Globais EUR Biased		-12,98	22/06/2022	3			
+	Capital Group Glob Alloc (LUX) B	17,8100 EUR	EUR	Mistos Moderados USD		-0,34	24/06/2022	4			
+	MFS Meridian Continen Eurp Eq A1 EUR	27,1900 EUR	EUR	Ações Europa ex R.U.		-5,72	24/06/2022	5			
+	HSBC GIF Frontier Markets ECEUR	17,5740 EUR	EUR	Ações Global Frontier Markets		14,29	22/06/2022	5			
+	HSBC GIF Frontier Markets EC	16,4650 USD	USD	Ações Global Frontier Markets		14,28	22/06/2022	5			
+	Nordea 1 - Asia ex Japan Eq Fd E USD	26,3100 USD	USD	Ações Ásia ex Japão		-13,89	24/06/2022	6			
+	Nordea 1 - Asia ex Japan Eq Fd E EUR	25,0100 EUR	EUR	Ações Ásia ex Japão		-13,64	24/06/2022	6			
+	NB Obrigações Europa FIMAO	24,9436 EUR	EUR	Obrigações Gov. EUR		-9,37	24/06/2022	4			
+	T. Rowe Price Glb Alloc Ext A USD	12,1100 USD	USD	Mistos Moderados USD		-3,74	24/06/2022	5			
+	AB European Eq C EUR USD	17,1500 USD	USD	Ações Europa Cap. Grande Valor		-8,54	24/06/2022	6			
+	Allianz GEM Equity High Div CT EUR	118,1200 EUR	EUR	Ações Emergentes Global		-9,47	24/06/2022	6			
+	BGF European Value E2 USD	72,5800 USD	USD	Ações Europa Cap. Grande Valor		-4,32	24/06/2022	6			
+	BGF European Value E2	68,7900 EUR	EUR	Ações Europa Cap. Grande Valor		-4,18	24/06/2022	6			
+	BSF Managed Index Port Growth A2 USD H	163,8900 USD	USD	Mistos Agressivos USD		3,56	24/06/2022	5			
+	AB European Eq C EUR	16,2500 EUR	EUR	Ações Europa Cap. Grande Valor		-8,61	24/06/2022	6			
+	Schroder ISF Glbl MA Bal B Acc EUR	126,6078 EUR	EUR	Mistos Defensivos EUR - Global		-8,42	24/06/2022	4			
+	Schroder ISF Glbl MA Bal B Dis Q	95,2894 EUR	EUR	Mistos Defensivos EUR - Global		-8,42	24/06/2022	4			
+	Amundi Fds Euroland Equity A EUR C	8,7500 EUR	EUR	Ações Euro Cap. Grande		-10,62	24/06/2022	6			
+	Fidelity Global Bond A-Acc-EUR H	13,0800 EUR	EUR	Obrigações Globais EUR Hedge		-11,98	24/06/2022	3			
+	T. Rowe Price Rspnb Euro Corp Bd A EUR	15,0200 EUR	EUR	Obrigações Corp. EUR		-11,91	24/06/2022	3			
+	FvS - Multi Asset - Defensive RT	107,6600 EUR	EUR	Mistos Defensivos EUR - Global		-7,71	24/06/2022	4			
+	Allianz Dyn MltAst Stgy SRI15 A EUR	107,2000 EUR	EUR	Mistos Defensivos EUR - Global		-6,98	24/06/2022	3			
+	Allianz Dyn MltAst Stgy SRI15 AT EUR	105,0000 EUR	EUR	Mistos Defensivos EUR - Global		-6,98	24/06/2022	3			
+	JPM Global Dividend D (acc) USD	162,4400 USD	USD	Ações Global Dividendo Alto		4,45	24/06/2022	6			
+	PIMCO GIS Glb Bd E EUR Hedged Acc	22,4400 EUR	EUR	Obrigações Globais EUR Hedge		-11,76	24/06/2022	3			
+	CS (Lux) Systematic Index Yield CHF B	109,5600 CHF	CHF	Mistos Defensivos CHF		-2,75	22/06/2022	4			
+	Ninety One GSF Glb StratMgd A Acc USD	152,6800 USD	USD	Mistos Moderados USD		-2,41	22/06/2022	5			
+	Ninety One GSF Glb StratMgd A Inc USD	66,1200 USD	USD	Mistos Moderados USD		-2,41	22/06/2022	5			
+	Fidelity Japan Advantage A-Dis-JPY	47 266,0000 JPY	JPY	Ações Japão Cap. Grande		-3,70	24/06/2022	6			
+	Janus Henderson Horizon Bio A2 USD Acc	13,8000 USD	USD	Ações Sector Biotecnologia		-21,41	24/06/2022	6			
+	Janus Henderson Hrzn AsPac Pty IncA3USD	13,3900 USD	USD	Imobiliário Indirecto Ásia		-8,51	24/06/2022	6			
+	Vanguard Emerg Mkts Stk Idx Inv EUR Acc	182,5336 EUR	EUR	Ações Emergentes Global		-14,41	24/06/2022	6			
+	Vanguard Emerg Mkts Stk Idx Inv USD Acc	192,4735 USD	USD	Ações Emergentes Global		-14,41	24/06/2022	6			
+	Janus Henderson Hrzn AsPac Pty IncA2USD	17,6800 USD	USD	Imobiliário Indirecto Ásia		-8,48	24/06/2022	6			
+	Man AHL TargetRisk D USD	142,6400 USD	USD	Mistos Moderados USD		4,48	23/06/2022	5			
+	Fidelity MSCI Emerg Mkts Indx USD P Acc	4,5556 USD	USD	Ações Emergentes Global		-14,33	24/06/2022	6			
+	Fidelity MSCI Emerg Mkts Indx EUR P Acc	5,3018 EUR	EUR	Ações Emergentes Global		-14,33	24/06/2022	6			
+	Carmignac Pf Patrimoine Europe A EUR Acc	126,1300 EUR	EUR	Mistos Moderados EUR		-8,35	23/06/2022	4			
+	UBS (Lux) BFConvert Eurp EUR P EUR Acc	156,3700 EUR	EUR	Obrigações Convertíveis Europa		-12,96	22/06/2022	4			
+	Nomura Fds Global Dynamic Bond A EUR H	106,8830 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-14,55	24/06/2022	4			
+	HSBC GIF Thai Equity EC	18,7520 USD	USD	Ações Tailândia		0,99	24/06/2022	6			
+	NB Euro Bond	2 508,7200 EUR	EUR	Obrigações Gov. EUR		-8,53	22/06/2022	4			
+	JPM Flexible Credit D (acc) EURH	91,8000 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-11,08	24/06/2022	4			
+	Janus Henderson Balanced A5m USD	11,7800 USD	USD	Mistos Moderados USD		2,17	24/06/2022	5			
+	JPM Flexible Credit D (div) EURH	49,8000 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-11,08	24/06/2022	4			
+	Janus Henderson Balanced A2 USD	35,6200 USD	USD	Mistos Moderados USD		2,18	24/06/2022	5			
+	Candriam Eqs L Biotech C USD Cap	657,2400 USD	USD	Ações Sector Biotecnologia		-8,48	22/06/2022	6			
+	HSBC GIF Global Emerging Mkts Eq EC	16,9240 USD	USD	Ações Emergentes Global		-12,09	24/06/2022	6			
+	Invesco Pan European Hi Inc E EUR Acc	20,2600 EUR	EUR	Mistos Defensivos EUR		-10,23	24/06/2022	4			
+	NB PPR/OICVM FIMA	29,0660 EUR	EUR	Mistos Defensivos EUR		-8,83	24/06/2022	4			
+	Candriam Eqs L Biotech N USD Cap	471,7300 USD	USD	Ações Sector Biotecnologia		-8,91	22/06/2022	6			
+	Neuberger Bm US Rel Est Sec USD A Acc	24,7800 USD	USD	Imobiliário Indirecto América do Norte		5,37	24/06/2022	6			
+	Invesco Euro Corporate Bond E EUR Acc	16,5418 EUR	EUR	Obrigações Corp. EUR		-11,44	24/06/2022	3			
+	M&G (Lux) Glb Corp Bd A H EUR Acc	11,4182 EUR	EUR	Obrigações Corp. Globais - EUR Hedged		-12,67	24/06/2022	4			
+	M&G (Lux) Glb Corp Bd A H EUR Inc	9,3209 EUR	EUR	Obrigações Corp. Globais - EUR Hedged		-12,73	24/06/2022	4			
+	Candriam Sst Bd Glbl Hi Yld C € Acc	100,7200 EUR	EUR	Obrigações Alto Rend. Globais - EUR Hedged		-10,44	22/06/2022	4			
+	M&G (Lux) North Amer Div A USD Dis	24,1007 USD	USD	Ações EUA Dividendo		4,22	24/06/2022	6			
+	AB Emerging Market Corp Debt A2 EUR H	17,5400 EUR	EUR	Obrigações Corp. Emergentes Globais EUR Biased		-15,79	24/06/2022	4			
+	JPM Emerg Mkts Inv Grd Bd D (acc) EURH	84,4600 EUR	EUR	Obrigações Emergentes Globais EUR Biased		-17,43	24/06/2022	4			
+	M&G (Lux) North Amer Div A EUR Inc	29,1511 EUR	EUR	Ações EUA Dividendo		4,41	24/06/2022	6			
+	Vontobel mtx Sust EmMkts Ldrs B USD	138,9100 USD	USD	Ações Emergentes Global		-20,16	22/06/2022	6			
+	Fidelity India Focus A-USD	58,8600 USD	USD	Ações Índia		2,39	24/06/2022	6			
+	BlueBay Emerging Market Bond R USD (AID)	67,1600 USD	USD	Obrigações Emergentes Globais		-9,19	22/06/2022	4			
+	BlueBay Emerging Market Bond R USD	194,7200 USD	USD	Obrigações Emergentes Globais		-9,19	22/06/2022	4			
+	Amundi Fds Em Mkts Eq Foc G USD C	105,6400 USD	USD	Ações Emergentes Global		-18,82	22/06/2022	6			
+	BGF ESG Multi-Asset E2 EUR	16,3100 EUR	EUR	Mistos Moderados EUR - Global		-4,51	24/06/2022	4			
+	UBS (Lux) ES Eurp Opp Uncons € P	248,7100 EUR	EUR	Ações Europa Cap. Grande Misto		-10,01	24/06/2022	6			
+	Vanguard European Stock Idx Inv EUR Acc	23,7596 EUR	EUR	Ações Europa Cap. Grande Misto		-5,91	24/06/2022	6			
+	Vanguard Eurozone Stock Idx Inv EUR Acc	193,0122 EUR	EUR	Ações Euro Cap. Grande		-12,49	24/06/2022	6			
+	BGF US Small & MidCap Opps E2	268,1500 USD	USD	Ações EUA Cap. Média		7,31	24/06/2022	6			
+	Fidelity MSCI Europe Indx EUR P Acc	6,1930 EUR	EUR	Ações Europa Cap. Grande Misto		-5,96	24/06/2022	6			
+	Fidelity India Focus A-EUR	67,9200 EUR	EUR	Ações Índia		2,44	24/06/2022	6			
+	Janus Henderson Hrzn Jpn Smr Coms A2 USD	59,0500 USD	USD	Ações Japão Cap. Peq/Média		-9,87	24/06/2022	6			
+	Franklin European Ttl Ret N(Mdis)EUR	9,8900 EUR	EUR	Obrigações Diversificado EUR		-12,62	24/06/2022	3			
+	Franklin European Ttl Ret N(acc)EUR	12,7900 EUR	EUR	Obrigações Diversificado EUR		-12,64	24/06/2022	3			
+	BGF US Small & MidCap Opps E2 EUR	254,1500 EUR	EUR	Ações EUA Cap. Média		7,46	24/06/2022	6			
+	MFS Meridian Global Concntr A1 USD	59,8500 USD	USD	Ações Global Cap. Grande Misto		-4,35	24/06/2022	6			
+	M&G (Lux) Glb Themes A USD Inc	12,4385 USD	USD	Ações Global Cap. Grande Misto		0,45	24/06/2022	6			
+	M&G (Lux) Glb Themes A USD Acc	13,0852 USD	USD	Ações Global Cap. Grande Misto		0,43	24/06/2022	6			
+	Allianz Euro Bond AT EUR	15,3000 EUR	EUR	Obrigações Diversificado EUR		-12,27	24/06/2022	3			
+	Legg Mason BW Glb Inc Opt A EURH Acc	100,3600 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-13,96	24/06/2022	4			
+	Legg Mason BW Glb Inc Opt A EURHDis(M)+e	75,9600 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-13,98	24/06/2022	4			
+	Neuberger Berman US Sm Cap USD A Acc	24,2000 USD	USD	Ações EUA Cap. Pequena		-2,10	24/06/2022	6			
+	Ninety One GSF EM Mlt-Asst A Acc USD	20,6600 USD	USD	Mistos Mercados Emergentes Globais		-12,85	22/06/2022	5			
+	NB Corporate Euro A	833,0400 EUR	EUR	Obrigações Corp. EUR		-12,61	22/06/2022	3			
+	Neuberger Berman US Sm Cap USD A Inc	15,6200 USD	USD	Ações EUA Cap. Pequena		-2,12	24/06/2022	6			
+	Nordea 1 - Global Stars Equity E EUR	162,2900 EUR	EUR	Ações Global Cap. Grande Misto		-6,71	24/06/2022	5			
+	MFS Meridian European Research A1 USD	26,0100 USD	USD	Ações Europa Cap. Grande Misto		-8,58	24/06/2022	6			
+	M&G (Lux) Glb Themes A EUR Acc	14,2781 EUR	EUR	Ações Global Cap. Grande Misto		0,64	24/06/2022	5			
+	Ninety One GSF Glb Qual Div Gr A Acc USD	29,8000 USD	USD	Ações Global Dividendo Alto		-1,52	22/06/2022	5			
+	Nordea 1 - Global Stars Equity E USD	170,7000 USD	USD	Ações Global Cap. Grande Misto		-7,02	24/06/2022	5			
+	Ninety One GSF Glb Qual Div Gr A Inc USD	45,3800 USD	USD	Ações Global Dividendo Alto		-1,50	22/06/2022	5			
+	Ninety One GSF Glb Qual Div Gr A Inc2USD	25,4400 USD	USD	Ações Global Dividendo Alto		-1,52	22/06/2022	5			
+	BNY Mellon Global Credit EUR H Acc H	1,0244 EUR	EUR	Obrigações Corp. Globais - EUR Hedged		-13,44	23/06/2022	4			
+	Schroder ISF Inflation Plus B Acc EUR	18,4060 EUR	EUR	Mistos Flexíveis EUR - Global		2,56	24/06/2022	4			
+	Schroder ISF Inflation Plus B Dis EUR AV	13,4405 EUR	EUR	Mistos Flexíveis EUR - Global		2,59	24/06/2022	4			
+	M&G (Lux) Glbl SustainParisAlgndUSDAAcc	30,8857 USD	USD	Ações Global Cap. Grande Misto		-0,18	24/06/2022	6			
+	M&G (Lux) Glbl SustainParisAlgndUSDADist	28,3607 USD	USD	Ações Global Cap. Grande Misto		-0,18	24/06/2022	6			
+	MFS Meridian Global Concntr A1 EUR	35,9700 EUR	EUR	Ações Global Cap. Grande Misto		-4,46	24/06/2022	6			
+	M&G (Lux) Glb Themes A EUR Inc	13,5148 EUR	EUR	Ações Global Cap. Grande Misto		0,58	24/06/2022	5			
+	Nomura Fds Global High Conviction A USD	161,5406 USD	USD	Ações Global Cap. Grande Misto		-7,42	24/06/2022	6			
+	Allianz Dyn MltAst Stgy SRI50 A EUR	145,9400 EUR	EUR	Mistos Moderados EUR - Global		-3,81	24/06/2022	4			
+	Allianz Dyn MltAst Stgy SRI50 AT EUR	135,0900 EUR	EUR	Mistos Moderados EUR - Global		-3,81	24/06/2022	4			
+	Janus Henderson Hrzn Euro Corp Bd A3 EUR	115,0600 EUR	EUR	Obrigações Corp. EUR		-13,66	24/06/2022	3			
+	Janus Henderson Hrzn Euro Corp Bd A2 EUR	145,3800 EUR	EUR	Obrigações Corp. EUR		-13,65	24/06/2022	3			
+	MFS Meridian Prudent Wealth AH1 EUR	14,0600 EUR	EUR	Mistos Moderados EUR - Global		-13,21	24/06/2022	4			
+	M&G (Lux) Glbl SustainParisAlgndEURAAcc	39,3383 EUR	EUR	Ações Global Cap. Grande Misto		0,02	24/06/2022	5			
+	M&G (Lux) Glbl SustainParisAlgndEURADist	36,2145 EUR	EUR	Ações Global Cap. Grande Misto		-0,02	24/06/2022	5			
+	MFS Meridian European Research A1 EUR	42,3900 EUR	EUR	Ações Europa Cap. Grande Misto		-8,64	24/06/2022	5			
+	AXAWF Euro Strategic Bonds E Cap EUR	149,2100 EUR	EUR	Obrigações Diversificado EUR		-9,58	24/06/2022	3			
+	Nomura Fds Global High Conviction A EUR	177,6963 EUR	EUR	Ações Global Cap. Grande Misto		-7,29	24/06/2022	5			
+	Invesco Pan European Focus Eq E EUR Acc	24,5400 EUR	EUR	Ações Europa Cap. Grande Valor		-5,03	24/06/2022	6			
+	UBS (Lux) BF Euro Hi Yld € P-acc	200,8800 EUR	EUR	Obrigações Alto Rend. EUR		-10,78	22/06/2022	4			
+	Nomura Global Sustainable Eq A USD Acc	125,4739 USD	USD	Ações Global Cap. Grande Misto		-2,23	24/06/2022	6			
+	BlueBay High Yield ESG Bond R EUR	237,3100 EUR	EUR	Obrigações Alto Rend. EUR		-11,13	22/06/2022	4			
+	Vontobel TwentyFour StratInc AH Hdg EUR	90,4300 EUR	EUR	Obrigações Flexível Globais-EUR Hedged		-13,63	22/06/2022	4			
+	Eurizon Azioni Strategia Flss R EUR Acc	161,5200 EUR	EUR	Mistos Flexíveis EUR - Global		-8,76	22/06/2022	6			
+	JPM Euroland Dynamic D perf (acc) EUR	252,4000 EUR	EUR	Ações Euro Cap. Grande		-12,18	24/06/2022	6			
+	Nomura Global Sustainable Eq A EUR Acc	134,4302 EUR	EUR	Ações Global Cap. Grande Misto		-2,09	24/06/2022	5			
+	Amundi Fds Global MA Cnsrv C EUR C	52,9900 EUR	EUR	Mistos Defensivos EUR - Global		-9,31	22/06/2022	4			
+	DWS Invest CROCI World SDG LD	146,5000 EUR	EUR	Ações Global Cap. Grande Valor		-0,10	24/06/2022	6			
+	JPM Emerging Markets Div D (acc) EUR	110,4700 EUR	EUR	Ações Emergentes Global		-7,05	24/06/2022	5			
+	JPM Emerging Markets Div D (div) EUR	69,8900 EUR	EUR	Ações Emergentes Global		-7,06	24/06/2022	5			
+	Schroder ISF Glb Em Mkt Opps B Acc USD	15,9798 USD	USD	Ações Emergentes Global		-20,26	24/06/2022	6			
+	Caixa Seleção Global Moderado FIMA	7,1736 EUR	EUR	Mistos Defensivos EUR - Global		-11,81	22/06/2022	4			
+	Nomura Fds India Equity A EUR	326,9785 EUR	EUR	Ações Índia		11,06	24/06/2022	6			
+	ODDO BHF Exklusiv:Polaris Balanced CREUR	54,8300 EUR	EUR	Mistos Moderados EUR - Global		-7,99	24/06/2022	4			
+	ODDO BHF Exklusiv:PolarisBalanced DRWEUR	77,2100 EUR	EUR	Mistos Moderados EUR - Global		-7,75	24/06/2022	4			
+	MFS Meridian Blnd Rsrch Eurp Eq A1 USD	18,2600 USD	USD	Ações Europa Cap. Grande Misto		-2,07	24/06/2022	6			
+	ODDO BHF Exklusiv:PolarisBalanced CRWEUR	55,2200 EUR	EUR	Mistos Moderados EUR - Global		-7,80	24/06/2022	4			
+	MFS Meridian European Value A1 USD	28,5100 USD	USD	Ações Europa Cap. Grande Misto		-9,52	24/06/2022	6			
+	Schroder ISF Glb Em Mkt Opps B Acc EUR	19,6035 EUR	EUR	Ações Emergentes Global		-19,93	24/06/2022	6			
+	Fidelity Emerging Mkts Foc A-Acc-USD	14,9700 USD	USD	Ações Emergentes Global		-12,95	24/06/2022	6			
+	Capital Group Glob Alloc (LUX) Bh-EUR	14,2600 EUR	EUR	Mistos Moderados EUR - Global		-8,12	24/06/2022	4			
+	Invesco Sustainable Allc E Acc EUR	10,4688 EUR	EUR	Mistos Moderados EUR - Global		-6,61	24/06/2022	6			
+	Capital Group Glob Alloc (LUX) Bdh-EUR	13,7500 EUR	EUR	Mistos Moderados EUR - Global		-8,17	24/06/2022	4			
+	RAM (Lux) Sys Emg Mkts Equities OP EUR	241,1800 EUR	EUR	Ações Emergentes Global		-7,07	22/06/2022	5			
+	RAM (Lux) Sys Emg Mkts Equities FP USD	190,9200 USD	USD	Ações Emergentes Global		-7,09	22/06/2022	6			
+	Fidelity Emerging Mkts Foc A-Dis-EUR	17,8600 EUR	EUR	Ações Emergentes Global		-12,88	24/06/2022	6			
+	BlueBay Glbl Inv Grd Corp Bd R EUR	104,6300 EUR	EUR	Obrigações Corp. Globais - EUR Hedged		-15,61	22/06/2022	4			
+	BGF European Equity Income E5G EUR	12,7400 EUR	EUR	Ações Europa		-8,32	24/06/2022	6			
