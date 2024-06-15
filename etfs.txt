@@ -1,0 +1,962 @@
+abrdn Physical Silver Shares ETF (ARCX:SIVR)	28,28 USD	28,37	ARCX			
+Alerian MLP ETF (ARCX:AMLP)	45,64 USD	15,46	ARCX			
+Amplify CWP Enhanced Dividend Income ETF (ARCX:DIVO)	38,39 USD	10,77	ARCX			
+Amplify Online Retail ETF (ARCX:IBUY)	54,71 USD	5,08	ARCX			
+Amplify Transformational Data Shrg ETF (ARCX:BLOK)	35,78 USD	23,89	ARCX			
+Amundi BlmbrgEqualweightCmdexAgrETFAcc (XPAR:COMO)	23,60 EUR	11,62	XPAR	6		
+Amundi CAC 40 Daily -1x Inverse ETF Acc (XPAR:SHC)	10,45 EUR	0,73	XPAR	6		
+Amundi CAC 40 Daily (-2x) Invrse ETF Acc (XPAR:BX4)	0,83 EUR	-0,68	XPAR	7		
+Amundi CAC 40 Daily 2x Leveraged ETF Acc (XPAR:LVC)	37,78 EUR	1,22	XPAR	7		
+Amundi CAC 40 ETF Dist (XPAR:CAC)	75,62 EUR	1,83	XPAR	6		
+Amundi DAX III ETF Acc (XETR:LYY7)	165,50 EUR	7,01	XETR	6		
+Amundi ETF DAX DR (XPAR:CG1)	321,30 EUR	7,15	XPAR	6		
+Amundi ETF MSCI France (XPAR:CF1)	382,95 EUR	1,65	XPAR	6		
+Amundi ETF Stoxx Europe 50 (XPAR:C5E)	118,88 EUR	11,73	XPAR	6		
+Amundi EUR Corp Bd PAB NetZeroAmbtETFAcc (XPAR:CRP)	145,00 EUR	0,32	XPAR	3		
+Amundi Euro Overnight Return ETF Acc (XPAR:CSH)	108,35 EUR	1,77	XPAR	1		
+Amundi Euro Govt Bd 1-3Y ETF Acc EUR (XPAR:MTA)	121,66 EUR	0,22	XPAR	2		
+Amundi Euro Govt Bd 10-15Y ETF Acc EUR (XPAR:MTE)	193,23 EUR	-1,64	XPAR	4		
+Amundi Euro Govt Bd 5-7Y ETF Acc EUR (XPAR:MTC)	151,87 EUR	-1,24	XPAR	3		
+Amundi Euro Govt Infl-Lnkd Bd ETF Acc EUR (XPAR:MTI)	163,08 EUR	-1,24	XPAR	4		
+AMUNDIEuro GovtTLTD GRN Bd UCITS ETFAcc (XPAR:CB3)	213,75 EUR	-1,26	XPAR	4		
+Amundi Euro HR McWtdGBETFAcc EUR (XPAR:MAA)	124,91 EUR	-1,82	XPAR	4		
+Amundi EUR Infl Expct 2-10Y ETF Acc (XPAR:INFL)	114,85 EUR	1,84	XPAR	3		
+Amundi EuroStoxx50 Dly -1x Inv ETF Acc (XPAR:BSX)	8,73 EUR	-6,40	XPAR	6		
+Amundi EuroStoxx50 Dly -2x Inv ETF Acc (XPAR:BXX)	0,79 EUR	-14,07	XPAR	7		
+Amundi EuroStoxx50 Dly 2x Lvrgd ETF Acc (XPAR:LVE)	51,76 EUR	16,59	XPAR	7		
+Amundi Euro Stoxx 50 II ETF Acc (XPAR:MSE)	52,09 EUR	9,40	XPAR	6		
+Amundi Euro Stoxx 50 II ETF DH USD Acc (XLON:MSEU)	247,13 USD	13,93	XLON	6		
+Amundi Euro Stoxx Select Div 30 ETF Dist (XETR:C051)	33,52 EUR		XETR			
+Amundi Bund Daily (-2x) Inverse ETF Acc (XPAR:DSB)	39,98 EUR	7,84	XPAR	5		
+Amundi Glbl BioEngyESGScrnUCITSETFEURAcc EUR (XPAR:CWE)	365,75 EUR	-5,25	XPAR	7		
+Amundi MSCI Pac Ex Jpn SRI PAB - DR €(C) (XPAR:CP9)	587,00 EUR	0,26	XPAR	6		
+Amundi IS Euro Corp BD 1-5 ESG ETF Acc (XPAR:EBBB)	51,40 EUR	0,71	XPAR	3		
+Amundi IS CAC 40 ESG DR ETF-C (XPAR:C40)	124,54 EUR	2,86	XPAR	6		
+Amundi IS CAC 40 ESG DR ETF-D (XPAR:C4D)	76,55 EUR	2,93	XPAR	6		
+Amundi € Fl Rt Corp Bd ESG - DR (C) (XPAR:AFRN)	105,94 EUR	2,19	XPAR	2		
+Amundi IS EURO Corporates ETF DR EUR C (XPAR:CC4)	212,05 EUR	0,27	XPAR	4		
+Amundi Euro Government Bd-UCITS ETF Acc (XPAR:EGOV)	47,76 EUR	-1,20	XPAR	4		
+Amundi Euro Government Bd-UCITS ETF Dist (XETR:10AL)	42,12 EUR	-1,32	XETR	4		
+Amundi Euro HY Bd ESG - DR EUR (C) (XPAR:AHYE)	238,73 EUR	0,05	XPAR	4		
+Amundi IS EURO STOXX 50 ETF-C EUR (XPAR:C50)	122,70 EUR	9,57	XPAR	6		
+Amundi IS EURO STOXX 50 ETF-D EUR (XPAR:CD5)	78,00 EUR	9,89	XPAR	6		
+Amundi IS FltngRt$CorpESG ETF DR H EUR C (XPAR:AFLE)	52,90 EUR	2,77	XPAR	3		
+Amundi IS FTSE EPRA Europe RE ETF-C EUR (XPAR:EPRE)	313,82 EUR	-2,60	XPAR	6		
+Amundi IS-Amundi Glb Agg Bd ETF DR (XPAR:GAGG)	48,68 EUR	0,73	XPAR	4		
+Amundi IS-Amundi Glb Agg Bd ETF DR€ (XETR:10AM)	47,21 EUR	0,97	XETR	4		
+Amundi IS-Amundi Glb Agg Bd ETF DR€H (XPAR:GAGH)	46,27 EUR	0,00	XPAR	3		
+Amundi IS Global Infrastructure ETF (XPAR:GINF)	69,05 EUR	2,15	XPAR	5		
+Amundi IS Govt Bd Hgh Rtd Er Inv GrETF€C (XPAR:AM3A)	200,82 EUR	-2,00	XPAR	4		
+Amundi IS Gvt Bd Lw Rtd ErInvGr1-3 ETF-C (XPAR:X13G)	112,84 EUR	0,29	XPAR	2		
+Amundi IS Gvt Bd Lwst Rtd Er InvGr ETF-C (XPAR:X1G)	221,70 EUR	-0,80	XPAR	4		
+Amundi IS Gvt Bd Lwst Rtd Er InvGr ETF-D (XPAR:X1GD)	193,77 EUR	-0,76	XPAR	4		
+Amundi IS EqGlb MltSmrtAllScBt ETF-C EUR (XPAR:SMRT)	522,57 EUR	0,00	XPAR	6		
+Amundi Euro Corporate SRI - DR (C) (XPAR:ECRP)	50,43 EUR	0,26	XPAR	4		
+Amundi IS Euro Corp SRI ETF DR EUR-D (XETR:DECR)	45,48 EUR	0,24	XETR	4		
+Amundi IS FTSE EPRA NAREIT Global ETF DR (XPAR:EPRA)	60,45 EUR	-1,39	XPAR	6		
+Amundi IS FTSE EPRA NAREIT Global ETFDR€ (XETR:10AJ)	50,74 EUR	-1,72	XETR	6		
+Amundi IS JP Morgan GBI Glbl Gvs ETF DR (XPAR:GGOV)	46,35 EUR	-0,68	XPAR	4		
+Amundi IS JP Morgan GBI Glbl Gvs ETFDR€ (XETR:10AK)	46,21 EUR	-0,24	XETR	4		
+Amundi IS JP Morgan GBI Glbl Gvs ETFDR€H (XPAR:GOVH)	45,99 EUR	-0,76	XPAR	3		
+Amundi IS MSCI Emerging Markets ETF DR C (XPAR:AEME)	65,50 EUR	10,09	XPAR	6		
+Amundi IS MSCI Emerging Markets ETF DR D (XETR:AEMD)	50,40 EUR	10,12	XETR	6		
+Amundi IS MSCI Europe ETF DR (XPAR:CEU2)	92,98 EUR	9,24	XPAR	6		
+Amundi IS MSCI Europe ETF DR EUR (XETR:10AI)	65,66 EUR	8,96	XETR	6		
+Amundi IS ITALY MIB ESG ETF DR - EUR C EUR (XPAR:FMI)	75,27 EUR	10,58	XPAR	6		
+Amundi IS Japan Topix ETF-C EUR (XPAR:TPXE)	104,76 EUR	8,22	XPAR	6		
+Amundi IS Japan Topix ETF-C EUR Hdg (XPAR:TPXH)	391,55 EUR	18,40	XPAR	6		
+Amundi IS JPX-Nikkei 400 ETF-C EUR (XPAR:JPNK)	179,20 EUR	9,54	XPAR	6		
+Amundi IS JPX-Nikkei 400 ETF-C EUR Hdg (XPAR:JPHE)	291,95 EUR	20,13	XPAR	6		
+Amundi IS MSCI Em Asia ETF-C EUR (XPAR:AASI)	36,74 EUR	14,12	XPAR	6		
+Amundi IS MSCI Em Latin America ETF-C € (XPAR:ALAT)	14,53 EUR	-13,94	XPAR	7		
+Amundi IS MSCI Emerging Markets ETF-C € (XPAR:AEEM)	4,97 EUR	9,83	XPAR	6		
+Amundi MSCI Eurp ESG Brd CTB ETF DR EURC (XPAR:CEU)	334,02 EUR	9,69	XPAR	6		
+Amundi IS MSCI Eurp ExSwitzESGLdrsETFCDR (XPAR:CS9)	323,57 EUR	10,19	XPAR	6		
+Amundi IS MSCI Europe Hi Div Fctr ETF-C EUR (XPAR:CD9)	176,82 EUR	6,27	XPAR	6		
+Amundi IS MSCI Europe Min Vol Fctr ETF-C (XPAR:MIVO)	120,44 EUR	0,00	XPAR	6		
+Amundi IS MSCI Europe Momt Fctr ETF-C (XPAR:MCEU)	104,54 EUR	15,48	XPAR	6		
+Amundi IS MSCI Europe Quality Fctr ETF-C (XPAR:QCEU)	113,82 EUR	10,16	XPAR	6		
+Amundi IS MSCI Europe Value Factor ETF-C (XPAR:CV9)	298,82 EUR	6,55	XPAR	6		
+Amundi IS MSCI India ETF-C EUR (XPAR:CI2)	988,75 EUR	18,28	XPAR	6		
+Amundi IS MSCI JpnClmtNZAmbtCTB ETF-CEUR (XPAR:CJ1)	254,51 EUR	6,05	XPAR	6		
+Amundi IS MSCI Nordic ETF-C (XPAR:CN1)	707,50 EUR	13,45	XPAR	6		
+Amundi IS MSCI Switzerland ETF-C EUR (XPAR:CSW)	11,22 EUR	6,37	XPAR	6		
+Amundi IS MSCI World Ex Europe ETF-C EUR (XPAR:CE8)	571,65 EUR	15,98	XPAR	6		
+Amundi IS MSCI World III ETF USD EUR (XETR:AHYQ)	92,62 EUR	14,50	XETR	6		
+Amundi IS MSCI World ETF C EUR (XPAR:CW8)	515,54 EUR	14,86	XPAR	6		
+Amundi IS Nasdaq-100 ETF-C EUR (XPAR:ANX)	208,25 EUR	21,33	XPAR	6		
+Amundi IS Nasdaq-100 ETF-C EUR Hdg (XPAR:NDXH)	460,00 EUR	16,07	XPAR	6		
+Amundi IS Russell 2000 ETF-C EUR (XPAR:RS2K)	276,59 EUR	2,59	XPAR	6		
+Amundi IS S&P 500 Buyback ETF-C EUR (XPAR:BYBE)	264,90 EUR	7,68	XPAR	6		
+Amundi IS S&P 500 ETF C EUR (XPAR:500)	99,00 EUR	18,45	XPAR	6		
+Amundi IS S&P 500 ETF C EUR Hdg (XPAR:500H)	131,27 EUR	13,56	XPAR	6		
+Amundi IS S&P Global Luxury ETF-C EUR (XPAR:GLUX)	200,19 EUR	-1,05	XPAR	6		
+Amundi STOXX EUROPE 600 ESG - DR EUR (C) (XPAR:C6E)	125,40 EUR	9,63	XPAR	6		
+Amundi Japan Topix II ETF Dist EUR (XPAR:JPN)	157,66 EUR	8,10	XPAR	6		
+Amundi LevDAX Daily (2x) ETF Acc (XPAR:LVD)	154,16 EUR	12,56	XPAR	7		
+Amundi MSCI AC AsiaPac Ex Jpn ETF Acc (XPAR:AEJ)	66,11 EUR	11,35	XPAR	6		
+Amundi MSCI All Country World ETF EURAcc (XPAR:ACWI)	444,98 EUR	14,34	XPAR	6		
+Amundi MSCI Brazil ETF Acc (XPAR:RIO)	18,59 EUR	-15,95	XPAR	7		
+Amundi MSCI Chn ESG Ldrs Extr ETF Acc (XPAR:ASI)	78,64 EUR	4,53	XPAR	6		
+Amundi MSCI Chn ESG Ldrs Extr ETF Inc (XETR:LHKG)	18,74 EUR	4,78	XETR	6		
+MSCI Chn Tech ESG Scrn UCITS ETF EUR Acc (XPAR:CC1)	206,00 EUR	-5,05	XPAR	6		
+Amundi MSCI China ETF Acc EUR (XETR:L4K3)	14,66 EUR	11,26	XETR	7		
+Amundi MSCI East Eurp ex Russia ETF Acc (XPAR:CEC)	24,00 EUR	5,17	XPAR	7		
+Amundi MSCI Emerging Markets ETF Acc EUR (XPAR:LEM)	12,30 EUR	9,83	XPAR	6		
+AmundiMSCI EMU ClNtZrAmbPAB UCITS ETFAcc (XPAR:PABZ)	73,07 EUR	5,39	XPAR	6		
+Amundi MSCI EMU ESG Ldrs Sel DR EUR (C) (XPAR:CMU)	293,95 EUR	6,72	XPAR	6		
+Amundi MSCI EMU ETF Dist (XPAR:MFE)	62,32 EUR	8,01	XPAR	6		
+Amundi MSCI Eurp Clmt Trsn CTB ETF DR C (XPAR:LWCE)	78,41 EUR	8,66	XPAR	6		
+Amundi MSCI Europe II ETF Acc (XPAR:MEU)	185,46 EUR	9,18	XPAR	6		
+Amundi MSCIEurpSmCpESGClmtNtZrAmbtCTBETF (XETR:X026)	50,84 EUR	4,76	XETR	6		
+Amundi MSCI Greece ETF Dist (XPAR:GRE)	1,50 EUR	9,92	XPAR	7		
+Amundi MSCI India ETF Acc EUR (XPAR:INR)	31,40 EUR	18,48	XPAR	6		
+Amundi MSCI Indonesia ETF Acc (XPAR:INDO)	118,30 EUR	-13,43	XPAR	6		
+Amundi MSCI Korea ETF Acc (XPAR:KRW)	64,48 EUR	1,05	XPAR	6		
+Amundi MSCI New Enrg ESG scrnd ETF Dist (XPAR:NRJ)	27,84 EUR	-0,81	XPAR	6		
+Amundi MSCI Semicon ESG Scrnd ETF Acc (XPAR:CHIP)	53,22 EUR	67,25	XPAR	6		
+Amundi MSCI Turkey ETF Acc (XPAR:TUR)	52,52 EUR	42,86	XPAR	7		
+Amundi MSCI UK IMI SRI PAB ETF DR EUR (XPAR:C1U)	809,70 EUR	9,30	XPAR	6		
+Amundi MSCI USAESGClmtNetZrAmbtCTBETFDis EUR (XPAR:USA)	474,83 EUR	16,25	XPAR	6		
+Amundi MSCI Water ESG scrnd ETF Dist (XPAR:WAT)	64,26 EUR	7,96	XPAR	6		
+Amundi MSCI Wld ESG Clmt Nt ZrAmbtCTBETF EUR (XPAR:LWCR)	470,31 EUR	13,81	XPAR	6		
+Amundi MSCI World HealthCare ETF EUR Acc EUR (XPAR:HLTW)	489,52 EUR	11,02	XPAR	6		
+Amundi MSCI World ETF Dist (XPAR:WLD)	326,09 EUR	14,91	XPAR	6		
+Amundi MSCI World ETF DR USD Acc EUR (XPAR:MWRD)	118,06 EUR		XPAR	6		
+Amundi MSCI World V ETF Acc EUR (XETR:LCUW)	17,14 EUR	14,36	XETR	6		
+Amundi Nasdaq-100 Daily 2x Lvrgd ETF Acc (XPAR:LQQ)	1 124,20 EUR	36,27	XPAR	7		
+Amundi Nasdaq 100 II ETF Acc (XPAR:UST)	73,88 EUR	21,12	XPAR	6		
+Amundi Nasdaq 100 II ETF Dis CNY	134,14 CNY		XETR	6		
+Amundi Pan Africa ETF Acc EUR	9,23 EUR	6,69	XPAR	6		
+Amundi PEA MSCI USA ESG Leaders ETF EUR (XPAR:CU2)	633,41 EUR	14,27	XPAR	6		
+Amundi Prime Global - UCITS ETF DR EUR (XETR:PRAW)	29,08 EUR	14,40	XETR	6		
+Amundi S&P 500 ETF D-EUR (XPAR:SP5)	52,10 EUR	18,39	XPAR	6		
+Amundi S&P 500 ETF D-USD EUR (XETR:6TVM)	52,13 EUR	17,92	XETR	6		
+Amundi ShortDAX Daily (-1x) Inverse ETF (XETR:AHYK)	12,52 EUR	-4,08	XETR	6		
+Amundi US Curve Stpng 2-10 ETF Acc EUR (XETR:UCT2)	86,89 EUR	2,77	XETR	3		
+ARK Autonomous Technology&Robotics ETF (BATS:ARKQ)	54,10 USD	-3,09	BATS			
+ARK Fintech Innovation ETF (ARCX:ARKF)	27,58 USD	3,36	ARCX			
+ARK Genomic Revolution ETF (BATS:ARKG)	25,05 USD	-21,09	BATS			
+ARK Innovation ETF (ARCX:ARKK)	43,87 USD	-13,42	ARCX			
+Rize Environmental Impact 100 ETF EUR (XETR:WRLD)	4,39 EUR	2,78	XETR	6		
+ARK Israel Innovative Technology ETF (BATS:IZRL)	19,99 USD	5,90	BATS			
+ARK Next Generation Internet ETF (ARCX:ARKW)	76,77 USD	4,54	ARCX			
+ARK Space Exploration & Innovation ETF (BATS:ARKX)	14,79 USD	-0,80	BATS			
+BNP Paribas Easy CAC 40® ESG ETF (XPAR:E40)	12,10 EUR	2,16	XPAR	6		
+BNPP Easy Euro Stoxx 50 ETF EUR C (XPAR:ETDD)	15,07 EUR	9,25	XPAR	6		
+BNPP E FTSE EPRA/NAREIT Euroz Cpd ETF QD (XPAR:EEE)	6,45 EUR	-3,42	XPAR	6		
+BNPP E MSCI Em SRI SSrPAB 5%CpdETFEURCap (XPAR:EMIS)	12,83 EUR	3,11	XPAR	6		
+BNPP E MSCI EMU ESG FTD MIN TE ETF EUR (XPAR:EEMU)	14,61 EUR	7,92	XPAR	6		
+Cambria Shareholder Yield ETF (BATS:SYLD)	67,74 USD	4,36	BATS			
+DB Gold Short ETN (ARCX:DGZ)	9,00 USD	-6,37	ARCX			
+db Physical Rhodium ETC (XLON:XRH0)	514,00 USD	20,81	XLON			
+Defiance 5G Next Gen Connectivity ETF (ARCX:FIVG)	41,70 USD	20,49	ARCX			
+Defiance Quantum ETF (ARCX:QTUM)	63,29 USD	20,63	ARCX			
+Direxion Daily Energy Bull 2X ETF (ARCX:ERX)	60,30 USD	11,01	ARCX			
+Direxion Daily Financial Bear 3X ETF (ARCX:FAZ)	11,20 USD	-13,88	ARCX			
+Direxion Daily Financial Bull 3X ETF (ARCX:FAS)	97,47 USD	22,32	ARCX			
+Direxion Daily FTSE China Bull 3X ETF (ARCX:YINN)	23,25 USD	15,06	ARCX			
+Direxion Daily Real Estate Bull 3X ETF (ARCX:DRN)	8,72 USD	-14,76	ARCX			
+Direxion Daily Retail Bull 3X ETF (ARCX:RETL)	9,07 USD	3,13	ARCX			
+Direxion Daily S&P 500® Hi Bt Bl 3X ETF (ARCX:HIBL)	41,02 USD	0,07	ARCX			
+Direxion Daily S&P Biotech Bull 3X ETF (ARCX:LABU)	110,90 USD	-5,90	ARCX			
+Direxion Daily S&P500® Bull 3X ETF (ARCX:SPXL)	144,57 USD	44,13	ARCX			
+Direxion Daily Semicondct Bear 3X ETF (ARCX:SOXS)	21,62 USD	-61,17	ARCX			
+Direxion Daily Semicondct Bull 3X ETF (ARCX:SOXL)	60,10 USD	98,00	ARCX			
+Direxion Daily Small Cap Bull 3X ETF (ARCX:TNA)	34,86 USD	-8,60	ARCX			
+Direxion Daily Technology Bull 3X ETF (ARCX:TECL)	99,44 USD	54,29	ARCX			
+Direxion Work From Home ETF (ARCX:WFH)	53,75 USD	1,93	ARCX			
+Elementum Physical Palladium ETC (XLON:TPAL)	23,31 USD	3,36	XLON			
+Fidelity Clean Energy ETF USD Acc EUR (XETR:FNRG)	3,21 EUR	-4,57	XETR	7		
+Fidelity Cloud Computing ETF USD Acc EUR (XETR:FCLD)	6,37 EUR	2,41	XETR	7		
+Fidelity Digital Health ETF USD Acc EUR (XETR:FDHT)	4,43 EUR	-2,11	XETR	6		
+FidelityElectricVhclsandFutTrsptnETF$Acc EUR (XETR:FDRV)	3,33 EUR	-18,98	XETR	7		
+Fidelity Emerg Mkts Qual Inc ETF USD Acc EUR (XETR:FYEM)	5,73 EUR	11,02	XETR	6		
+Fidelity Europe Qual Inc ETF EUR Acc (XETR:FEUQ)	7,52 EUR	6,38	XETR	6		
+Fidelity Europe Qual Inc ETF GBP H Acc (XLON:FEQP)	7,86 GBP	10,37	XLON	6		
+Fidelity Glb Govt Bd Clmt Awr ETFAccGBPH (XLON:FGGG)	5,15 GBP	2,01	XLON	4		
+Fidelity Glb Govt Bd Clmt Awr ETF Inc EUR (XETR:FFGG)	4,49 EUR	-0,94	XETR	4		
+Fidelity Glb Govt Bd Clmt Awr ETFIncUSDH (XLON:FGGU)	5,02 USD	2,77	XLON	4		
+Fidelity Global Qual Inc ETF Inc EUR (XETR:FGEQ)	8,10 EUR	10,94	XETR	6		
+Fidelity Global Qual Inc ETF EUR H Inc (XETR:FGEU)	7,72 EUR	8,97	XETR	6		
+Fidelity Global Qual Inc ETF GBP H Inc (XLON:FGQP)	8,00 GBP	11,96	XLON	6		
+Fidelity Metaverse ETF USD Acc EUR (XETR:FMTV)	6,12 EUR	9,07	XETR	6		
+FidSst€CorpBdParisAlignedMltfctETF£HAcc (XLON:FEIP)	5,41 GBP	4,00	XLON	4		
+FidSst€CorpBdParisAlignedMltfctETFInc USD (XLON:FEIG)	5,60 USD	0,47	XLON	3		
+FidelitySustGlbCrpBdPrsAlgndMtftrETF€H (XETR:FSCE)	5,58 EUR	-0,15	XETR	4		
+FidelitySustGlbCrpBdPrsAlgndMtftrETF£H (XLON:FSMP)	4,72 GBP	2,90	XLON	4		
+Fidelity SustGlbCrpBdPrsAlgndMtftrETF$H (XLON:FSMU)	5,36 USD	3,79	XLON	4		
+FidelitySustGlbCrpBdPrsAlgndMtftrETF$Inc EUR (XETR:FSCM)	3,85 EUR	2,83	XETR	4		
+FidSstGlbHYBdPrsAlgndMltfctETFAccGBPH (XLON:FHYG)	5,79 GBP	3,65	XLON	4		
+FidSstGlbHYBdPrsAlgndMltfctETFInc EUR (XETR:FFGH)	4,90 EUR	4,02	XETR	4		
+Fidelity Sust Rsh Enh EM Eq ETF USD Acc EUR (XETR:FYER)	4,32 EUR	9,34	XETR	6		
+Fidelity Sust Rsh Enh Eurp Eq ETF EURAcc (XETR:FEUR)	8,53 EUR	8,26	XETR	6		
+Fidelity Sust Rsh Enh Glb Eq ETF USD Acc EUR (XETR:FGLR)	8,21 EUR	13,58	XETR	6		
+Fidelity Sust Rsh Enh Jpn Eq ETF JPY Acc EUR (XETR:FJPR)	5,24 EUR	10,05	XETR	6		
+Fidelity Sust Rsh EnhPacexJpnEqETFUSDAcc EUR (XETR:FEPX)	5,10 EUR	3,05	XETR	6		
+Fidelity Sust Rsh Enh US Eq ETF USD Acc EUR (XETR:FUSR)	8,97 EUR	18,61	XETR	6		
+FidSst$CorpBdParisAlignedMltfctETF€HInc (XETR:FUIE)	5,51 EUR	-0,14	XETR	4		
+FidSst$CorpBdParisAlignedMltfctETF£HAcc (XLON:FUIP)	5,55 GBP	3,09	XLON	5		
+FidSst$CorpBdParisAlignedMltfctETFInc (XLON:FUIG)	5,38 USD	3,97	XLON	4		
+Fidelity Sust USD EM Bd ETF Acc GBP H (XLON:FEMP)	4,45 GBP	3,04	XLON	5		
+Fidelity Sust USD EM Bd ETF USD Inc EUR (XETR:FESD)	3,67 EUR	3,88	XETR	5		
+Fidelity US Quality Income ETF Acc EUR (XETR:FUSA)	11,28 EUR	14,38	XETR	6		
+Fidelity US Quality Income ETF Inc EUR (XETR:FUSD)	9,58 EUR	14,28	XETR	6		
+Fidelity US Quality Income ETF EUR H Acc (XETR:FUSU)	9,26 EUR	9,76	XETR	6		
+Fidelity US Quality Income ETF GBP H Acc (XLON:FUSP)	9,57 GBP	13,18	XLON	6		
+First Trust Cloud Computing ETF A USD EUR (XAMS:SKYE)	36,14 EUR	8,53	XAMS	7		
+First Trust Dow Jones Internet ETF (ARCX:FDN)	197,97 USD	9,69	ARCX			
+First Trust Global Wind Energy ETF (ARCX:FAN)	16,71 USD	4,98	ARCX			
+First Trust Indxx NextG UCITS ETF A Acc USD (XLON:NXTU LN)	USD		XLON	6		
+First Trust Nasdaq Semiconductor ETF (XNAS:FTXL)	101,17 USD	28,37	XNAS			
+First Trust NASDAQ® Cln Edge® GrnEngyETF (XNAS:QCLN)	36,18 USD	-11,32	XNAS			
+First Trust Natural Gas ETF (ARCX:FCG)	25,79 USD	9,97	ARCX			
+FlexShares iBoxx 5Yr Target Dur TIPS ETF (ARCX:TDTF)	23,36 USD	4,32	ARCX			
+Franklin Exponential Data ETF (BATS:XDAT)	21,97 USD	4,17	BATS			
+Global X Atnms & Elctrc Vhcls ETF (XNAS:DRIV)	24,10 USD	0,97	XNAS			
+Global X Cloud Computing ETF (XNAS:CLOU)	19,22 USD	-12,33	XNAS			
+Global X Conscious Companies ETF (XNAS:KRMA)	36,82 USD	13,94	XNAS			
+Global X E-commerce ETF (XNAS:EBIZ)	23,60 USD	15,11	XNAS			
+Global X Genomics & Biotechnology ETF (XNAS:GNOM)	10,46 USD	-6,46	XNAS			
+Global X Internet of Things ETF (XNAS:SNSR)	36,09 USD	5,64	XNAS			
+Global X Lithium & Battery Tech ETF (ARCX:LIT)	40,71 USD	-17,40	ARCX			
+Global X Millennials Consumer ETF (XNAS:MILN)	38,35 USD	11,81	XNAS			
+Global X MSCI Norway ETF (ARCX:NORW)	25,80 USD	4,67	ARCX			
+Global X Robotics & Artfcl Intllgnc ETF (XNAS:BOTZ)	31,40 USD	13,88	XNAS			
+Global X Social Media ETF (XNAS:SOCL)	42,48 USD	8,76	XNAS			
+Global X Telemedicine & Digital Hlth ETF (XNAS:EDOC)	9,18 USD	-6,24	XNAS			
+Global X Uranium ETF (ARCX:URA)	29,56 USD	10,34	ARCX			
+Global X Video Games & Esports ETF (XNAS:HERO)	20,71 USD	6,13	XNAS			
+Goldman Sachs Acs CHN Govt Bd ETF USDInc (XLON:CBND)	52,36 USD	4,32	XLON	3		
+GS ActiveBeta Em Mkt Eq ETF A USD Acc (XLON:GSEM)	27,40 USD	8,39	XLON	6		
+GS ActiveBeta US Lrg Cp Eq ETF USD Acc (XLON:GSLC)	74,47 USD	17,07	XLON	6		
+Goldman Sachs Future Tech Leaders Eq ETF (ARCX:GTEK)	29,47 USD	9,29	ARCX			
+HAN-GINS Indxx Hlthcr Mgtrd EqlWgtETFAcc (XLON:WELL)	6,91 USD	-3,54	XLON	7		
+HSBC Hang Seng Tech ETF EUR (XPAR:HSTE)	4,77 EUR	1,45	XPAR	7		
+HSBC MSCI Russia Capped ETF (XLON:HRUD)	2,70 USD	3,36	XLON	7		
+iMGP DBi Managed Futures Strategy ETF (ARCX:DBMF)	29,40 USD	18,62	ARCX			
+Invesco Aerospace & Defense ETF (ARCX:PPA)	101,93 USD	14,45	ARCX			
+Invesco AT1 Capital Bond ETF EUR Hdg Dis EUR (XETR:XAT1)	15,87 EUR	2,83	XETR	5		
+Invesco AT1 Capital Bond ETF GBP Hdg Dis (XLON:AT1S)	3 304,00 GBX	5,77	XLON	5		
+Invesco AT1 Capital Bond ETF USD Dis GBP (XLON:AT1D)	1 417,80 GBX	6,55	XLON	5		
+Invesco Biotechnology & Genome ETF (ARCX:PBE)	63,82 USD	0,23	ARCX			
+Invesco Bloomberg Commodity ex-Agltr ETF EUR (XETR:XAAG)	28,36 EUR	13,17	XETR	6		
+Invesco Bloomberg Commodity ETF (XLON:CMOD)	23,33 USD	9,04	XLON	6		
+Invesco Bloomberg MVP Multi-factor ETF (ARCX:BMVP)	43,59 USD	11,48	ARCX			
+Invesco Building & Construction ETF (ARCX:PKB)	69,17 USD	13,31	ARCX			
+Invesco BuyBack Achievers ETF (XNAS:PKW)	102,59 USD	7,40	XNAS			
+Invesco CoinShares Global Blockchain ETF (XLON:BCHN)	95,29 USD	9,10	XLON	7		
+Invesco Comms S&P US Slct Sec ETF $ Acc GBP (XLON:XLCP)	5 669,00 GBX	21,56	XLON	6		
+Invesco Consumer Discr S&P US SelSec ETF GBP (XLON:XLYP)	47 863,00 GBX	0,89	XLON	7		
+Invesco Consumer Stap S&P US Sel Sec ETF GBP (XLON:XLPP)	49 870,50 GBX	11,69	XLON	6		
+Invesco Dividend Achievers™ ETF (XNAS:PFM)	42,69 USD	11,09	XNAS			
+Invesco DW Basic Materials Momt ETF (XNAS:PYZ)	87,42 USD	5,87	XNAS			
+Invesco DW Consumer Cyclicals Momt ETF (XNAS:PEZ)	95,99 USD	20,63	XNAS			
+Invesco DW Consumer Staples Momt ETF (XNAS:PSL)	94,93 USD	7,44	XNAS			
+Invesco Dorsey Wright Energy MomentumETF (XNAS:PXI)	45,44 USD	5,26	XNAS			
+Invesco Dorsey Wright Financial Momt ETF (XNAS:PFI)	48,29 USD	11,32	XNAS			
+Invesco Dorsey Wright Healthcare MomtETF (XNAS:PTH)	43,02 USD	13,61	XNAS			
+Invesco Dorsey Wright IndustrialsMomtETF (XNAS:PRN)	134,93 USD	17,82	XNAS			
+Invesco Dorsey Wright Momentum ETF (XNAS:PDP)	97,17 USD	17,51	XNAS			
+Invesco Dorsey Wright Technology MomtETF (XNAS:PTF)	60,78 USD	24,37	XNAS			
+Invesco Dorsey Wright Utilities Momt ETF (XNAS:PUI)	34,97 USD	13,79	XNAS			
+Invesco Dynamic Leisure and Entmnt ETF (ARCX:PEJ)	43,64 USD	7,99	ARCX			
+Invesco Emerging Markets Sov Debt ETF (ARCX:PCY)	20,41 USD	5,14	ARCX			
+Invesco Energy Exploration & Prod ETF (ARCX:PXE)	32,21 USD	8,25	ARCX			
+Invesco Energy S&P US Select Sector ETF GBP (XLON:XLEP)	46 128,50 GBX	8,30	XLON	7		
+Invesco EQQQ NASDAQ-100 ETF EUR (XPAR:EQQQ)	447,80 EUR	20,96	XPAR	6		
+Invesco EQQQ NASDAQ-100 ETF (EUR Hdg) (XETR:EQEU)	349,30 EUR	15,15	XETR	6		
+Invesco EQQQ NASDAQ-100 ETF (GBP Hdg) (XLON:EQGB)	37 190,00 GBX	18,93	XLON	6		
+Invesco Euro Corporate Hybrid Bd ETF Acc (XETR:EHBA)	40,17 EUR	3,08	XETR	4		
+Invesco Euro IG Corporate Bond ESG ETF (XETR:PSFE)	18,15 EUR	0,24	XETR	3		
+Invesco EURO STOXX 50 ETF (XETR:SC0D)	119,72 EUR	9,39	XETR	6		
+Invesco EURO STOXX 50 ETF (Dist) (XETR:S6X0)	47,14 EUR	9,46	XETR	6		
+Invesco EURO STOXX Hi Div Low VolETF EUR (XETR:EHDV)	24,40 EUR	6,12	XETR	6		
+Invesco EURO STOXX Optimised Banks ETF (XETR:S7XE)	95,98 EUR	17,88	XETR	7		
+Invesco EuroMTS Cash 3 Months ETF EUR (XETR:PJEU)	103,63 EUR	1,65	XETR	1		
+Invesco Financials S&P US Select Sec ETF GBP (XLON:XLFQ)	24 568,00 GBX	11,42	XLON	7		
+Invesco Food & Beverage ETF (ARCX:PBJ)	44,92 USD	1,41	ARCX			
+Invesco FTSE 100 ETF (XLON:S100)	8 441,00 GBX	10,47	XLON	6		
+Invesco FTSE 250 ETF (XLON:S250)	16 700,00 GBX	6,54	XLON	6		
+Invesco FTSE Em Mkts Hi Div Low Vol ETF EUR (XETR:EHDL)	21,70 EUR	4,07	XETR	6		
+Invesco FTSE RAFI All World 3000 ETF EUR (XETR:PSWD)	25,21 EUR	9,72	XETR	6		
+Invesco FTSE RAFI Emerging Markets ETF EUR (XETR:6PSK)	8,15 EUR	11,78	XETR	6		
+Invesco FTSE RAFI Europe ETF (XETR:6PSC)	11,65 EUR	7,84	XETR	6		
+Invesco FTSE RAFI UK 100 ETF (XLON:PSRU)	1 207,10 GBX	10,22	XLON	6		
+Invesco FTSE RAFI US 1000 ETF (ARCX:PRF)	37,64 USD	11,00	ARCX			
+Invesco FTSE RAFI US 1000 ETF EUR (XETR:6PSA)	29,01 EUR	10,63	XETR	6		
+Invesco FTSE RAFI US 1500 Small-Mid ETF (XNAS:PRFZ)	37,46 USD	3,51	XNAS			
+Invesco Global Buyback Achievers ETF EUR (XETR:BBCK)	46,96 EUR	8,08	XETR	6		
+Invesco Golden Dragon China ETF (XNAS:PGJ)	24,54 USD	-2,56	XNAS			
+Invesco Health Care S&P US Sel Sec ETF (XLON:XLVS)	700,96 USD	10,73	XLON	6		
+Invesco High Yield Eq Div Achiev™ ETF (XNAS:PEY)	19,51 USD	-2,75	XNAS			
+Invesco India ETF (ARCX:PIN)	29,01 USD	17,13	ARCX			
+Invesco Industrials S&P US Sel Sec ETF GBP (XLON:XLIP)	51 380,00 GBX	9,01	XLON	6		
+Invesco International Div Achiev ETF (XNAS:PID)	17,86 USD	0,98	XNAS			
+Invesco JPX-Nikkei 400 ETF (EUR Hdg) (XETR:NS4E)	29,27 EUR	19,25	XETR	6		
+Invesco JPX-Nikkei 400 ETF GBP (XLON:S400)	15 129,50 GBX	8,93	XLON	6		
+Invesco JPX-Nikkei 400 ETF (USD Hdg) (XLON:N4US)	34,81 USD	23,94	XLON	6		
+Invesco KBW NASDAQ Fintech ETF (XLON:FTEK)	44,14 USD	4,04	XLON	7		
+Invesco Large Cap Growth ETF (ARCX:PWB)	93,20 USD	23,99	ARCX			
+Invesco Large Cap Value ETF (ARCX:PWV)	54,06 USD	10,66	ARCX			
+Invesco LGIM Commodity Composite ETF GBP (XLON:LGCF)	76,79 GBP	8,12	XLON	6		
+Invesco Materials S&P US Select Sec ETF GBP (XLON:XLBP)	41 616,00 GBX	7,04	XLON	6		
+Invesco MDAX® ETF Acc (XETR:DEAM)	42,77 EUR	-5,38	XETR	6		
+Invesco Morningstar US EnrgInfrMLPETF (XLON:MLPS)	121,39 USD	16,48	XLON	7		
+Invesco Morningstar US EnrgInfrMLPETFDis GBP (XLON:MLPP)	3 867,00 GBX	16,02	XLON	7		
+Invesco MSCI Emerging Markets ETF GBP (XLON:MXFP)	4 039,00 GBX	9,53	XLON	6		
+Invesco MSCI Eurp ESGLdrsCatholicPplsETF EUR (XETR:ICFP)	56,09 EUR	9,07	XETR	6		
+Invesco MSCI Europe ex-UK ETF GBP (XLON:MXUK)	3 070,00 GBX	8,22	XLON	6		
+Invesco MSCI Europe ETF (XETR:SC0E)	336,45 EUR	9,06	XETR	6		
+Invesco MSCI Japan ETF EUR (XETR:SC0I)	73,61 EUR	8,83	XETR	6		
+Invesco MSCI Saudi Arabia ETF GBP (XLON:MSAP)	2 283,00 GBX	-0,27	XLON	6		
+Invesco MSCI Sustainable Future ETF (ARCX:ERTH)	40,90 USD	-10,36	ARCX			
+Invesco MSCI USA ESG Universal Scrn ETF EUR (XETR:ESGU)	75,82 EUR	16,88	XETR	6		
+Invesco MSCI USA ETF EUR (XETR:SC0H)	145,13 EUR	17,24	XETR	6		
+Invesco MSCI World ESG Unvsl Scrn ETF EUR (XETR:ESGW)	68,76 EUR	14,87	XETR	6		
+Invesco MSCI World ETF EUR (XETR:SC0J)	100,88 EUR	14,32	XETR	6		
+Invesco NASDAQ Biotech ETF EUR (XAMS:SBIO)	43,58 EUR	6,88	XAMS	6		
+Invesco Next Gen Connectivity ETF (ARCX:KNCT)	98,48 USD	14,28	ARCX			
+Invesco Next Gen Media and Gaming ETF (ARCX:GGME)	47,57 USD	27,10	ARCX			
+Invesco Pharmaceuticals ETF (ARCX:PJP)	81,33 USD	10,70	ARCX			
+Invesco Physical Gold ETC EUR (XAMS:SGLD)	209,81 EUR	16,40	XAMS	4		
+Invesco Preferred Shares ETF EUR H Dis (XETR:PDSE)	13,81 EUR	1,25	XETR	6		
+Invesco Preferred Shares ETF GBP (XLON:PRFP)	1 214,30 GBX	5,59	XLON	6		
+Invesco QQQ Trust (XNAS:QQQ)	479,19 USD	21,11	XNAS			
+InvescoQuantStratsESGGlbEqMFETFEURPfHAcc (XETR:IQSE)	69,78 EUR	16,26	XETR	6		
+Invesco Quant Strats ESGGlbEqMFETFUSDAcc EUR (XETR:IQSA)	67,90 EUR	18,75	XETR	6		
+Invesco Russell 2000 ETF EUR (XETR:SC0K)	93,94 EUR	1,14	XETR	7		
+Invesco S&P 100 Equal Weight ETF (ARCX:EQWL)	93,58 USD	11,02	ARCX			
+Invesco S&P 500 QVM ETF EUR (XETR:QVMP)	53,22 EUR	26,85	XETR	6		
+Invesco S&P 500 ETF (Dist) EUR (XETR:D500)	47,03 EUR	17,84	XETR	6		
+Invesco S&P 500 ETF EUR (XAMS:SPXS)	991,99 EUR	18,44	XAMS	6		
+Invesco S&P 500 ETF (EUR Hdg) (XETR:E500)	42,16 EUR	12,94	XETR	6		
+Invesco S&P 500® Equal Weight ETF (ARCX:RSP)	163,68 USD	7,65	ARCX			
+Invesco S&P 500® Quality ETF (ARCX:SPHQ)	64,43 USD	23,57	ARCX			
+Invesco S&P MidCap Momentum ETF (ARCX:XMMO)	112,76 USD	29,89	ARCX			
+Invesco S&P MidCap Quality ETF (ARCX:XMHQ)	101,99 USD	19,06	ARCX			
+Invesco S&P MidCap Value with Momt ETF (ARCX:XMVM)	50,81 USD	4,65	ARCX			
+Invesco S&P SmallCap Momentum ETF (ARCX:XSMO)	59,54 USD	8,74	ARCX			
+Invesco S&P SmallCap Value with Momt ETF (ARCX:XSVM)	51,57 USD	-1,20	ARCX			
+Invesco Semiconductors ETF (ARCX:PSI)	62,66 USD	30,84	ARCX			
+Invesco Solar ETF (ARCX:TAN)	45,80 USD	-11,27	ARCX			
+Invesco STOXX Eurp 600 OptAut & Prts ETF (XETR:SC0P)	524,50 EUR	2,04	XETR	7		
+Invesco STOXX Eurp 600 Opt Banks ETF (XETR:SC0U)	101,56 EUR	18,01	XETR	7		
+Invesco STOXX Eurp 600 Opt Bsc Res ETF (XETR:SC0W)	579,70 EUR	2,46	XETR	7		
+Invesco STOXX Eurp 600 Opt Chemicals ETF (XETR:SC00)	608,20 EUR	-2,66	XETR	6		
+Invesco STOXX Eurp 600 Opt Cnst&Mat ETF (XETR:SC01)	571,40 EUR	3,08	XETR	6		
+Invesco STOXX Eurp 600 Opt Finl Srvs ETF (XETR:SC02)	395,60 EUR	7,85	XETR	6		
+Invesco STOXX Eurp 600 Opt Food&Bev ETF (XETR:SC03)	427,75 EUR	-0,22	XETR	6		
+Invesco STOXX Eurp 600 Opt Hlth Care ETF (XETR:SC0T)	402,80 EUR	11,53	XETR	6		
+Invesco STOXX Eurp 600 OptIndGds&SrvsETF (XETR:SC0S)	396,40 EUR	10,17	XETR	6		
+Invesco STOXX Eurp 600 Opt Insurance ETF (XETR:SC0Y)	163,64 EUR	9,47	XETR	7		
+Invesco STOXX Eurp 600 Opt Media ETF (XETR:SC06)	188,82 EUR	14,44	XETR	6		
+Invesco STOXX Eurp 600 Opt Oil & Gas ETF (XETR:SC0V)	263,05 EUR	1,11	XETR	7		
+Invesco STOXX Eurp 600 Opt PersHseGdsETF (XETR:SC04)	701,80 EUR	6,79	XETR	6		
+Invesco STOXX Eurp 600 Opt Retail ETF (XETR:SC05)	229,35 EUR	6,77	XETR	6		
+Invesco STOXX Eurp 600 Opt Technlgy ETF (XETR:SC0X)	141,06 EUR	10,77	XETR	6		
+Invesco STOXX Eurp 600 Opt Telecomm ETF (XETR:SC0Q)	91,58 EUR	4,95	XETR	6		
+Invesco STOXX Eurp 600 Opt Trv& LeisETF (XETR:SC0R)	221,50 EUR	-2,70	XETR	7		
+Invesco STOXX Eurp 600 Opt Utilities ETF (XETR:SC0Z)	260,50 EUR	-3,20	XETR	6		
+Invesco STOXX Europe 600 ETF (XETR:SC0C)	123,68 EUR	8,87	XETR	6		
+Invesco Technology S&P US Sel Sec ETF GBP (XLON:XLKQ)	51 358,00 GBX	36,47	XLON	6		
+Invesco UK Gilt 1-5 Year ETF GBP Inc (XLON:GLT5)	3 663,50 GBX	2,96	XLON	3		
+Invesco UK Gilts ETF GBP Acc (XLON:GLTA)	3 165,50 GBX	0,60	XLON	5		
+Invesco Ultra Short Duration ETF (ARCX:GSY)	50,05 USD	6,07	ARCX			
+Invesco US High Yield Faln Angl ETF EUR (XETR:FAHY)	19,60 EUR	3,59	XETR	5		
+Invesco US High Yield Faln Angl ETF EURH (XETR:FAEU)	25,05 EUR	-0,46	XETR	5		
+Invesco US High Yield Faln Angl ETF GBPH (XLON:FAGB)	2 659,50 GBX	2,74	XLON	5		
+Invesco US Trs Bd 1-3 Yr ETF GBP H Dis (XLON:T3GB)	3 661,25 GBX	3,75	XLON	2		
+Invesco US Trs Bd 1-3 Yr ETF USD Dis EUR (XETR:TRD3)	35,77 EUR	4,56	XETR	2		
+Invesco US Trs Bd 3-7 Yr ETF GBP Hdg Dis (XLON:TR7S)	3 560,00 GBX	2,76	XLON	3		
+Invesco US Trs Bd 3-7 Yr ETF USD Dis EUR (XETR:TRD7)	34,96 EUR	3,70	XETR	3		
+Invesco US Trs Bd 7-10 Yr ETF EUR H Dis EUR (XETR:TRDE)	31,69 EUR	-1,25	XETR	4		
+Invesco US Trs Bd 7-10 Yr ETF GBP H Dis (XLON:TRXS)	3 370,50 GBX	1,96	XLON	4		
+Invesco US Trs Bd 7-10 Yr ETF USD Dis EUR (XETR:TRDX)	33,12 EUR	2,86	XETR	4		
+Invesco US Treasury Bond ETF GBP H Dis (XLON:TRGB)	3 347,00 GBX	2,47	XLON	4		
+Invesco US Treasury Bond ETF USD Dis EUR (XETR:TRDS)	33,87 EUR	3,47	XETR	4		
+Invesco Utilities S&P US Select Sec ETF GBP (XLON:XLUP)	38 031,50 GBX	14,10	XLON	6		
+Invesco Water Resources ETF (XNAS:PHO)	65,58 USD	11,48	XNAS			
+Invesco WilderHill Clean Energy ETF (ARCX:PBW)	21,38 USD	-25,13	ARCX			
+iShares $ Corp Bond Intr Rt H ETF $ Acc (XLON:HLQD)	6,43 USD	6,13	XLON	4		
+iShares $ Corp Bond Intr Rt H ETF $ Dist EUR (XAMS:LQDH)	94,86 EUR	4,63	XAMS	4		
+iShares $ Corp Bond ETF EUR H Dist (XLON:LQEE)	3,78 EUR	-2,20	XLON	5		
+iShares $ Corp Bond ETF GBP H Dist (XLON:LQGH)	4,23 GBP	1,03	XLON	5		
+iShares $ Corp Bond ETF USD Acc (XLON:LQDA)	5,77 USD	2,97	XLON	5		
+iShares $ Corp Bond ETF USD Dist EUR (XAMS:LQDA)	94,81 EUR	1,57	XAMS	5		
+iShares $ Floating Rate Bd ETF USD Acc (XLON:FLOA)	5,94 USD	6,67	XLON	2		
+iShares $ TIPS ETF USD Acc EUR (XAMS:TPSA)	220,93 EUR	4,17	XAMS	4		
+iShares $ Treasury Bd 0-1yr ETF USD Acc (XLON:IB01)	110,78 USD	5,77	XLON	1		
+iShares $ Treasury Bd 0-1yr ETF USD Dist EUR (XETR:IBCC)	4,74 EUR	5,71	XETR	1		
+iShares $ Treasury Bd 1-3yr ETF EURH Acc EUR (XETR:2B7S)	4,85 EUR	0,52	XETR	2		
+iShares $ Treasury Bd 1-3yr ETF GBPHDist (XLON:IBTG)	4,65 GBP	3,79	XLON	2		
+iShares $ Treasury Bd 1-3yr ETF USD Acc (XLON:IBTA)	5,46 USD	4,47	XLON	2		
+iShares $ Treasury Bd 1-3y ETF USD Dist EUR (XAMS:IBTS)	118,96 EUR	4,49	XAMS	2		
+iShares $ Treasury Bd 20+y ETF EUR HDist (XLON:DTLE)	3,19 EUR	-3,84	XLON	6		
+iShares $ Treasury Bd 20+y ETF USD Dist EUR (XETR:IS04)	3,25 EUR	0,29	XETR	6		
+iShares $ Treasury Bd 3-7y ETF USD Acc USD (XLON:CBU7)	131,35 USD	3,67	XLON	3		
+iShares $ Treasury Bd 7-10yr ETFUSD Dist EUR (XAMS:BTMA)	160,72 EUR	2,71	XAMS	4		
+iShares 0-5 Year High Yield Corp Bd ETF (ARCX:SHYG)	42,10 USD	6,02	ARCX			
+iShares 1-3 Year Treasury Bond ETF (XNAS:SHY)	81,61 USD	4,44	XNAS			
+iShares 20+ Year Treasury Bond ETF (XNAS:TLT)	94,67 USD	0,60	XNAS	6		
+iShares 7-10 Year Treasury Bond ETF (XNAS:IEF)	94,60 USD	2,86	XNAS	4		
+iShares AEX ETF EUR Dist (XAMS:IAEX)	91,68 EUR	17,30	XAMS	6		
+iShares Agribusiness ETF USD Acc GBP (XLON:SPAG)	3 431,00 GBX	-1,51	XLON	6		
+iShares Automation&Robotics ETF USD Acc EUR (XETR:2B76)	12,07 EUR	1,63	XETR	7		
+iShares BIC 50 ETF USD Dist EUR (XAMS:BRIC)	17,68 EUR	7,90	XAMS	7		
+iShares Biotechnology ETF (XNAS:IBB)	136,45 USD	3,91	XNAS	6		
+iShares China CNY Bond ETF USD Dis (XAMS:CNYB)	5,14 USD	4,95	XAMS	3		
+iShares China Large-Cap ETF (ARCX:FXI)	26,17 USD	12,92	ARCX	6		
+iShares Cohen & Steers REIT ETF (BATS:ICF)	56,77 USD	0,82	BATS			
+iShares Core DAX® ETF (DE) Acc (XETR:EXS1)	150,00 EUR	6,96	XETR	6		
+iShares Core Dividend Growth ETF (ARCX:DGRO)	57,22 USD	11,05	ARCX			
+iShares Core EURO STOXX 50 ETF (DE) (XETR:EXW1)	49,64 EUR	9,41	XETR	6		
+iShares Core EURO STOXX 50 ETF EUR Dist (XAMS:EUEA)	49,66 EUR	9,71	XAMS	6		
+iShares Core FTSE 100 ETF GBP Dist EUR (XAMS:ISFA)	9,39 EUR	9,24	XAMS	6		
+iShares Core FTSE 100 ETF USD H Acc (XLON:ISFD)	7,32 USD	10,76	XLON	6		
+iShares Core Global Aggt Bd ETF EUR HAcc EUR (XAMS:AGGH)	4,74 EUR	-0,11	XAMS	3		
+iShares Core MSCI EM IMI ETF USD Acc EUR (XAMS:EMIM)	31,62 EUR	10,10	XAMS	6		
+iShares Core MSCI EM IMI ETF USD Dist EUR (XETR:IBC3)	4,45 EUR	10,01	XETR	6		
+iShares Core MSCI Europe ETF EUR Acc (XAMS:IMAE)	78,64 EUR	9,27	XAMS	6		
+iShares Cor MSCI Eurp UCITS ETF EUR Dist (XAMS:IMEU)	32,07 EUR	9,44	XAMS	6		
+iShares Core MSCI Japan IMI ETF USD Acc EUR (XAMS:IJPA)	49,75 EUR	8,07	XAMS	6		
+iShares Core MSCI World ETF USD Acc EUR (XAMS:IWDA)	94,03 EUR	14,85	XAMS	6		
+iShares Core S&P 500 ETF (ARCX:IVV)	543,86 USD	18,42	ARCX	6		
+iShares Core S&P 500 ETF USD Acc USD (XLON:CSPX)	571,56 USD	17,68	XLON	6		
+iShares Core S&P 500 ETF USD Dist EUR (XAMS:IUSA)	50,42 EUR	18,06	XAMS	6		
+iShares Core S&P Mid-Cap ETF (ARCX:IJH)	57,83 USD	8,42	ARCX	6		
+iShares Core S&P Small-Cap ETF (ARCX:IJR)	104,68 USD	0,62	ARCX	5		
+iShares Core US Aggregate Bond ETF (ARCX:AGG)	97,92 USD	3,52	ARCX	4		
+iShares Core £ Corp Bond ETF GBP Dist (XLON:SLXX)	121,70 GBP	0,93	XLON	4		
+iShares Core € Corp Bond ETF EUR Dist EUR (XAMS:IEAC)	118,93 EUR	0,38	XAMS	3		
+iShares Cybersecurity and Tech ETF (ARCX:IHAK)	44,39 USD	0,99	ARCX			
+iShares DivDAX® ETF (DE) (XETR:EXSB)	19,82 EUR	3,48	XETR	6		
+iShares DJ Global Titans 50 ETF (DE) (XETR:EXI2)	82,16 EUR	24,82	XETR	6		
+iShares DJ Industrial Average ETF (DE) EUR (XETR:EXI3)	358,85 EUR	5,95	XETR	6		
+iShares DJ US Select Dividend (DE) EUR (XETR:EXX5)	79,60 EUR	5,55	XETR	6		
+iShares eb.rexx® GovtGer 1.5-2.5yr (DE) (XETR:EXHB)	78,48 EUR	0,33	XETR	2		
+iShares eb.rexx® GovtGer 10.5+yr (DE) (XETR:EXX6)	129,41 EUR	-3,10	XETR	5		
+iShares eb.rexx® GovtGer 2.5-5.5yr (DE) (XETR:EXHC)	92,73 EUR	-0,73	XETR	3		
+iShares eb.rexx® GovtGer 5.5-10.5yr (DE) (XETR:EXHD)	118,45 EUR	-1,53	XETR	3		
+iShares eb.rexx® GovtGer ETF (DE) (XETR:EXHA)	122,91 EUR	-0,87	XETR	3		
+iShares Edge MSCI EM Mini Vol ETF $ Acc GBP (XLON:EMV)	2 560,50 GBX	6,55	XLON	5		
+iShares Edge MSCI Eurp Mini Vol ETF €Acc GBP (XLON:IMV)	4 962,75 GBX	7,13	XLON	5		
+iShares Edge MSCI USA Momt Fac ETF $ Acc (XLON:IUMO)	13,96 USD	28,77	XLON	6		
+iShares Edge MSCI Wld Min Vol ETF $ Acc GBP (XLON:MINV)	4 871,00 GBX	6,85	XLON	6		
+iShares Edge MSCI Wld Mom Fctr ETF $ Acc EUR (XETR:IS3R)	72,05 EUR	29,05	XETR	6		
+iShares Edge MSCI Wld Qual Fctr ETF $Acc (XLON:IWQU)	67,74 USD	17,95	XLON	6		
+iShares Edge MSCI Wld Val Fctr ETF $Acc (XLON:IWVL)	41,93 USD	6,33	XLON	6		
+iShares Edge S&P 500 Min Vol ETF USD Acc GBP (XLON:MVUS)	7 264,00 GBX	15,23	XLON	6		
+iShares EM Dividend ETF USD Dist GBP (XLON:SEDY)	1 180,50 GBX	7,89	XLON	6		
+iShares Emerging Markets Infras ETF (XNAS:EMIF)	21,79 USD	6,94	XNAS			
+iShares Euro Dividend ETF EUR Dist GBP (XLON:IDVY)	1 459,90 GBX	0,71	XLON	6		
+iShares EURO STOXX Banks 30-15 ETF (DE) (XETR:EXX1)	13,46 EUR	17,81	XETR	7		
+iShares EURO STOXX Mid ETF EUR Dist (XAMS:DJMC)	65,63 EUR	3,02	XAMS	6		
+iShares EURO STOXX Select Div 30 (DE) (XETR:EXSG)	16,00 EUR	4,63	XETR	6		
+iShares EURO STOXX (DE) (XETR:EXSI)	50,78 EUR	7,59	XETR	6		
+iShares Euro Total Mkt Gr Lg ETF € Dist (XAMS:IDJG)	60,24 EUR	11,64	XAMS	6		
+iShares European Prpty Yld ETF EUR Dist (XAMS:IPRP)	28,11 EUR	-5,29	XAMS	6		
+iShares Exponential Technologies ETF (XNAS:XT)	58,72 USD	1,65	XNAS			
+iShares France Govt Bond ETF EUR Dist EUR (XAMS:IFRB)	127,42 EUR	-2,76	XAMS	4		
+iShares FTSE MIB ETF EUR Dist EUR	17,70 EUR	14,40	XLON	6		
+iShares Genomics Immnlgy & Hlthcr ETF (ARCX:IDNA)	23,54 USD	6,23	ARCX			
+iShares Global Clean Energy ETF (XNAS:ICLN)	14,34 USD	-4,19	XNAS			
+iShares Global Clean Energy ETF USD Dist EUR (XETR:IQQH)	7,80 EUR	-4,46	XETR	7		
+iShares Global Comm Services ETF (ARCX:IXP)	87,48 USD	21,79	ARCX			
+iShares Global Consumer Discr ETF (ARCX:RXI)	158,31 USD	3,75	ARCX			
+iShares Global Consumer Staples ETF (ARCX:KXI)	60,61 USD	6,80	ARCX	5		
+iShares Global Energy ETF (ARCX:IXC)	39,86 USD	7,65	ARCX	7		
+iShares Global Financials ETF (ARCX:IXG)	83,50 USD	11,74	ARCX			
+iShares Global Healthcare ETF (ARCX:IXJ)	92,61 USD	11,18	ARCX			
+iShares Global Industrials ETF (ARCX:EXI)	134,09 USD	9,68	ARCX			
+iShares Global Infl Lnkd GovBd ETF $ Acc EUR (XETR:IUS5)	144,19 EUR	1,89	XETR	5		
+iShares Global Infrastructure ETF (XNAS:IGF)	47,98 USD	7,21	XNAS			
+iShares Global Materials ETF (ARCX:MXI)	84,78 USD	1,78	ARCX			
+iShares Global Tech ETF (ARCX:IXN)	83,27 USD	26,49	ARCX			
+iShares Global Timber & Forestry ETF (XNAS:WOOD)	78,98 USD	2,00	XNAS			
+iShares Global Utilities ETF (ARCX:JXI)	60,76 USD	9,17	ARCX			
+iShares Gold Producers ETF USD Acc GBP (XLON:SPGP)	1 156,50 GBX	9,09	XLON	7		
+iShares iBoxx $ High Yield Corp Bd ETF (ARCX:HYG)	77,06 USD	5,59	ARCX	4		
+iShares iBoxx $ Invmt Grade Corp Bd ETF (ARCX:LQD)	108,46 USD	3,21	ARCX	5		
+iShares International Treasury Bond ETF (XNAS:IGOV)	39,07 USD	-2,31	XNAS			
+iShares JP Morgan $ EM Bond EURH ETF Dis (XLON:EMBE)	66,38 EUR	1,46	XLON	5		
+iShares JP Morgan $ EM Bond ETF USD Dist (XLON:IEMB)	86,83 USD	5,47	XLON	5		
+iShares JPMorgan $ EM Corp Bd ETF $ Acc (XLON:EMCA)	5,97 USD	6,50	XLON	4		
+iShares JPMorgan EM Lcl Govt Bd ETF$Dist (XLON:IEML)	43,14 USD	-1,04	XLON	5		
+iShares JP Morgan USD Em Mkts Bd ETF (XNAS:EMB)	89,28 USD	5,79	XNAS	5		
+iShares Latin America 40 ETF (ARCX:ILF)	24,29 USD	-11,30	ARCX			
+iShares MDAX® ETF (DE) (XETR:EXS3)	212,00 EUR	-5,67	XETR	6		
+iShares MSCI AC FarEast exJpn SC ETF$Dis GBP (XLON:ISFE)	2 487,25 GBX	6,06	XLON	6		
+iShares MSCI ACWI ETF USD Acc GBP (XLON:SSAC)	6 585,50 GBX	13,64	XLON	6		
+iShares MSCI Australia ETF USD Acc GBP (XLON:SAUS)	3 865,00 GBX	3,65	XLON	6		
+iShares MSCI BIC ETF (ARCX:BKF)	36,04 USD	9,44	ARCX	6		
+iShares MSCI Brazil ETF (ARCX:EWZ)	27,27 USD	-16,73	ARCX	7		
+iShares MSCI Canada ETF (ARCX:EWC)	36,54 USD	3,94	ARCX	6		
+iShares MSCI China A ETF USD Acc EUR (XETR:36BZ)	3,88 EUR	4,32	XETR	6		
+iShares MSCI China Small-Cap ETF (ARCX:ECNS)	24,71 USD	1,53	ARCX			
+iShares MSCI China ETF USD Acc (XAMS:ICHN)	4,22 USD	10,69	XAMS	7		
+iShares MSCI EAFE Value ETF (BATS:EFV)	52,40 USD	6,96	BATS			
+iShares MSCI EM Latin Amer ETF USD Dist EUR (XAMS:LTAM)	13,77 EUR	-13,82	XAMS	7		
+iShares MSCI EM Small Cap ETF USD Dist GBP	5 582,00 GBX	3,74	XLON	6		
+iShares MSCI EM ETF USD Acc EUR (XAMS:IEMA)	36,04 EUR	10,00	XAMS	6		
+iShares MSCI EM ETF USD Dist EUR (XETR:IQQE)	38,99 EUR	9,10	XETR	6		
+iShares MSCI Emerging Markets ETF (ARCX:EEM)	42,23 USD	9,30	ARCX	6		
+iShares MSCI Emerging Markets Sm-Cp ETF (ARCX:EEMS)	60,90 USD	9,34	ARCX			
+iShares MSCI Europe ex-UK ETF EUR Dist (XAMS:IEUX)	44,29 EUR	6,80	XAMS	6		
+iShares MSCI Europe Financials ETF (XNAS:EUFN)	21,97 USD	12,07	XNAS			
+iShares MSCI Europe SRI ETF EUR Acc (XAMS:IESE)	70,83 EUR	10,17	XAMS	6		
+iShares MSCI Eurozone ETF (BATS:EZU)	48,39 USD	7,64	BATS			
+iShares MSCI Germany ETF (ARCX:EWG)	30,01 USD	7,05	ARCX	7		
+iShares MSCI Hong Kong ETF (ARCX:EWH)	15,75 USD	-4,22	ARCX	6		
+iShares MSCI Israel ETF (ARCX:EIS)	60,77 USD	8,86	ARCX			
+iShares MSCI Japan ETF (ARCX:EWJ)	67,13 USD	8,99	ARCX	6		
+iShares MSCI Japan EUR Hedged ETF Acc EUR (XAMS:IJPE)	90,04 EUR	19,48	XAMS	6		
+iShares MSCI Japan Small Cap ETF USD Dis GBP (XLON:ISJP)	3 145,00 GBX	2,31	XLON	6		
+iShares MSCI Malaysia ETF (ARCX:EWM)	22,67 USD	12,03	ARCX	5		
+iShares MSCI Mexico ETF (ARCX:EWW)	55,61 USD	-14,58	ARCX	7		
+iShares MSCI Pacific ex Japan ETF (ARCX:EPP)	42,72 USD	3,39	ARCX			
+iShares MSCI Pacific ex-Jpn ETF USD Dist GBP (XLON:SPXJ)	3 392,00 GBX	2,85	XLON	6		
+iShares MSCI Poland ETF USD Acc GBP (XLON:SPOL)	1 610,00 GBX	3,35	XLON	7		
+iShares MSCI Singapore ETF (ARCX:EWS)	18,99 USD	6,90	ARCX			
+iShares MSCI South Africa ETF (ARCX:EZA)	41,31 USD	3,78	ARCX			
+iShares MSCI South Africa ETF USD Acc GBP (XLON:SRSA)	2 503,00 GBX	3,13	XLON	7		
+iShares MSCI South Korea ETF (ARCX:EWY)	64,52 USD	1,77	ARCX	7		
+iShares MSCI Sweden ETF (ARCX:EWD)	40,24 USD	7,07	ARCX			
+iShares MSCI Taiwan ETF (ARCX:EWT)	53,12 USD	19,28	ARCX	6		
+iShares MSCI Turkey ETF (XNAS:TUR)	41,12 USD	33,29	XNAS			
+iShares MSCI UAE ETF (XNAS:UAE)	13,36 USD	-3,42	XNAS			
+iShares MSCI United Kingdom ETF (ARCX:EWU)	34,91 USD	11,31	ARCX	6		
+iShares MSCI USA Momentum Factor ETF (BATS:MTUM)	194,68 USD	28,50	BATS			
+iShares MSCI USA SRI ETF USD Acc EUR (XAMS:SUAU)	13,84 EUR	8,28	XAMS	6		
+iShares MSCI World EUR Hedged ETF Acc EUR (XAMS:IWDE)	86,23 EUR	12,08	XAMS	6		
+iShares MSCI World GBP Hedged ETF Acc (XLON:IGWD)	9 341,00 GBX	15,21	XLON	6		
+iShares MSCI World Small Cap ETF USD Acc EUR (XETR:IUSN)	6,54 EUR	2,62	XETR	6		
+iShares MSCI World SRI ETF EUR Acc (XLON:SUSW)	10,92 EUR	8,28	XLON	6		
+iShares MSCI World ETF USD Dist EUR (XAMS:IWRD)	69,31 EUR	14,08	XAMS	6		
+iShares NASDAQ 100 ETF USD Acc USD (XLON:CNDX)	1 118,82 USD	20,06	XLON	6		
+iShares North American Natural Res ETF (BATS:IGE)	42,73 USD	9,69	BATS			
+iShares Oil & Gas Explr&Prod ETF USD Acc GBP (XLON:SPOG)	2 084,75 GBX	6,61	XLON	7		
+iShares OMX Stockholm Capped ETF GBP (XLON:OMXS)	643,88 GBX	6,93	XLON	6		
+iShares Pfandbriefe ETF (DE) (XETR:EXHE)	94,10 EUR	-0,41	XETR	3		
+iShares Physical Palladium ETC (XLON:IPDM)	25,48 USD	-18,31	XLON	6		
+iShares Physical Platinum ETC (XLON:IPLT)	13,69 USD	-1,98	XLON	5		
+iShares Russell 1000 ETF (ARCX:IWB)	295,75 USD	17,20	ARCX			
+iShares Russell 1000 Growth ETF (ARCX:IWF)	363,10 USD	24,10	ARCX			
+iShares Russell 1000 Value ETF (ARCX:IWD)	172,79 USD	8,98	ARCX	6		
+iShares Russell 2000 ETF (ARCX:IWM)	198,73 USD	2,88	ARCX	7		
+iShares Russell 2000 Growth ETF (ARCX:IWO)	258,17 USD	6,08	ARCX			
+iShares Russell 2000 Value ETF (ARCX:IWN)	148,78 USD	-0,20	ARCX			
+iShares Russell 3000 ETF (ARCX:IWV)	306,68 USD	16,38	ARCX	6		
+iShares Russell Mid-Cap ETF (ARCX:IWR)	80,52 USD	7,63	ARCX			
+iShares Russell Mid-Cap Growth ETF (ARCX:IWP)	109,32 USD	8,38	ARCX			
+iShares Russell Mid-Cap Value ETF (ARCX:IWS)	119,86 USD	7,21	ARCX			
+iShares Russell Top 200 Growth ETF (ARCX:IWY)	213,74 USD	26,36	ARCX			
+iShares S&P 100 ETF (ARCX:OEF)	262,92 USD	22,31	ARCX			
+iShares S&P 500 Energy Sect ETF USD Acc (XLON:IUES)	8,72 USD	9,11	XLON	7		
+iShares S&P 500 EUR Hedged ETF Acc EUR (XAMS:IUES)	113,97 EUR	13,71	XAMS	6		
+iShares S&P 500 GBP Hedged ETF Acc (XLON:IGUS)	12 268,00 GBX	16,70	XLON	6		
+iShares S&P 500 Growth ETF (ARCX:IVW)	92,21 USD	27,14	ARCX			
+iShares S&P 500 Health Care Sect ETF$Acc (XLON:IUHC)	11,39 USD	10,64	XLON	6		
+iShares S&P 500 Value ETF (ARCX:IVE)	180,50 USD	8,28	ARCX			
+iShares S&P Mid-Cap 400 Growth ETF (ARCX:IJK)	87,24 USD	14,18	ARCX			
+iShares S&P Mid-Cap 400 Value ETF (ARCX:IJJ)	111,85 USD	2,16	ARCX			
+iShares S&P Small-Cap 600 Growth ETF (XNAS:IJT)	126,11 USD	4,62	XNAS			
+iShares S&P Small-Cap 600 Value ETF (ARCX:IJS)	95,28 USD	-3,64	ARCX			
+iShares S&P SmallCap 600 ETF USD Dist GBP (XLON:ISP6)	6 692,00 GBX	-1,30	XLON	7		
+iShares Select Dividend ETF (XNAS:DVY)	118,98 USD	6,59	XNAS	6		
+iShares Self-Driving EV and Tech ETF (ARCX:IDRV)	28,60 USD	-16,13	ARCX			
+iShares Semiconductor ETF (XNAS:SOXX)	252,04 USD	35,97	XNAS			
+iShares Silver Trust (ARCX:SLV)	27,01 USD	28,18	ARCX			
+iShares SLI ETF (DE) EUR (XETR:EXI1)	143,02 EUR	8,60	XETR	6		
+iShares STOXX Europe 50 ETF EUR Dist (XAMS:EUNA)	45,73 EUR	11,30	XAMS	6		
+iShares STOXX Europe 600 (DE) Dist (XETR:EXSA)	51,38 EUR	8,85	XETR	6		
+iShares STOXX Europe Large 200 (DE) (XETR:EXSC)	53,70 EUR	9,99	XETR	6		
+iShares STOXX Europe Mid 200 (DE) (XETR:EXSD)	52,18 EUR	3,73	XETR	6		
+iShares STOXX Europe Sel Div 30 (DE) (XETR:EXSH)	16,97 EUR	2,10	XETR	6		
+iShares STOXX Europe Small 200 (DE) (XETR:EXSE)	32,83 EUR	4,15	XETR	6		
+iShares STOXX Global Sel Div 100 (DE) (XETR:ISPA)	28,61 EUR	5,10	XETR	6		
+iShares TecDAX® ETF (DE) (XETR:EXS2)	29,76 EUR	0,12	XETR	6		
+iShares TIPS Bond ETF (ARCX:TIP)	106,90 USD	4,24	ARCX			
+iShares Transportation Average ETF (BATS:IYT)	63,45 USD	0,50	BATS			
+iShares US Basic Materials ETF (ARCX:IYM)	140,10 USD	5,51	ARCX			
+iShares US Energy ETF (ARCX:IYE)	46,21 USD	9,61	ARCX			
+iShares US Financials ETF (ARCX:IYF)	92,59 USD	12,78	ARCX			
+iShares US Healthcare ETF (ARCX:IYH)	60,93 USD	10,53	ARCX			
+iShares US Home Construction ETF (BATS:ITB)	103,93 USD	5,82	BATS			
+iShares US Industrials ETF (BATS:IYJ)	119,10 USD	8,09	BATS			
+iShares US Oil & Gas Explor & Prod ETF (BATS:IEO)	96,41 USD	8,08	BATS			
+iShares US Pharmaceuticals ETF (ARCX:IHE)	66,21 USD	11,68	ARCX			
+iShares US Real Estate ETF (ARCX:IYR)	87,06 USD	-0,56	ARCX	7		
+iShares US Technology ETF (ARCX:IYW)	151,08 USD	27,36	ARCX			
+iShares US Telecommunications ETF (BATS:IYZ)	20,88 USD	-3,92	BATS			
+iShares US Treasury Bond ETF (BATS:GOVT)	22,75 USD	3,33	BATS			
+iShares US Utilities ETF (ARCX:IDU)	88,84 USD	16,08	ARCX			
+iShares UK Dividend ETF GBP Dist (XLON:IUKD)	720,50 GBX	6,59	XLON	6		
+iShares UK Property ETF GBP Dist (XLON:IUKP)	455,55 GBX	-0,10	XLON	6		
+iShares US Aggregate Bond ETF EUR H Acc (XLON:IUAE)	4,64 EUR	-0,82	XLON	4		
+iShares US Consumer Discretionary ETF (ARCX:IYC)	79,88 USD	9,27	ARCX			
+iShares US Consumer Staples ETF (ARCX:IYK)	65,58 USD	7,17	ARCX			
+iShares US Property Yield ETF USD Dist EUR (XAMS:IUSP)	25,72 EUR	0,14	XAMS	7		
+iShares Core EURO STOXX 50 ETF EUR Acc GBP (XLON:CS51)	15 031,00 GBX	9,00	XLON	6		
+iShares US Financials ETF (ARCX:IYF)	92,59 USD	12,78	ARCX			
+iShares US Healthcare ETF (ARCX:IYH)	60,93 USD	10,53	ARCX			
+iShares US Home Construction ETF (BATS:ITB)	103,93 USD	5,82	BATS			
+iShares US Industrials ETF (BATS:IYJ)	119,10 USD	8,09	BATS			
+iShares US Oil & Gas Explor & Prod ETF (BATS:IEO)	96,41 USD	8,08	BATS			
+iShares US Pharmaceuticals ETF (ARCX:IHE)	66,21 USD	11,68	ARCX			
+iShares US Real Estate ETF (ARCX:IYR)	87,06 USD	-0,56	ARCX	7		
+iShares US Technology ETF (ARCX:IYW)	151,08 USD	27,36	ARCX			
+iShares US Telecommunications ETF (BATS:IYZ)	20,88 USD	-3,92	BATS			
+iShares US Treasury Bond ETF (BATS:GOVT)	22,75 USD	3,33	BATS			
+iShares US Utilities ETF (ARCX:IDU)	88,84 USD	16,08	ARCX			
+iShares UK Dividend ETF GBP Dist (XLON:IUKD)	720,50 GBX	6,59	XLON	6		
+iShares UK Property ETF GBP Dist (XLON:IUKP)	455,55 GBX	-0,10	XLON	6		
+iShares US Aggregate Bond ETF EUR H Acc (XLON:IUAE)	4,64 EUR	-0,82	XLON	4		
+iShares US Consumer Discretionary ETF (ARCX:IYC)	79,88 USD	9,27	ARCX			
+iShares US Consumer Staples ETF (ARCX:IYK)	65,58 USD	7,17	ARCX			
+iShares US Property Yield ETF USD Dist EUR (XAMS:IUSP)	25,72 EUR	0,14	XAMS	7		
+iShares € Govt Bond 7-10yr ETF EUR Acc (XETR:SXRQ)	146,51 EUR	-1,76	XETR	4		
+iShares Core EURO STOXX 50 ETF EUR Acc GBP (XLON:CS51)	15 031,00 GBX	9,00	XLON	6		
+iShares Dow Jones Indust Avg ETF USD Acc EUR (XETR:SXRU)	428,55 EUR	6,22	XETR	6		
+iShares MSCI Canada ETF USD Acc EUR (XAMS:CSCA)	171,18 EUR	3,53	XAMS	6		
+iShares MSCI Mexico Capped ETF USD Acc GBP (XLON:CMX1)	11 497,50 GBX	-14,94	XLON	7		
+iShares MSCI Russia ADR/GDR ETF USD Acc EUR (XAMS:CSRU)	30,00 EUR	0,00	XAMS	7		
+iShares NASDAQ 100 ETF EUR Hdg Acc (XETR:NQSE)	11,81 EUR	15,36	XETR	6		
+iShares Nikkei 225 ETF JPY Acc EUR (XETR:SXRZ)	228,30 EUR	7,41	XETR	6		
+JPM BetaBuilders EURGovtBd1-3yrETFEURAcc EUR (XETR:JE13)	97,83 EUR	0,18	XETR	2		
+JPM BetaBuilders UK Gilt 1-5 yrETFGBPInc (XLON:JG15)	93,59 GBP	2,52	XLON	3		
+JPM BetaBuilders US TrsBd1-3 yrETFUSDAcc EUR (XETR:JA13)	101,09 EUR	4,51	XETR	2		
+JPM BetaBuilders US TreasuryBdETFGBPHAcc (XLON:BBTP)	74,81 GBP	2,38	XLON	4		
+JPM Carb Transition Glbl Eq(CTB)ETF$Acc (XLON:JPCT)	38,85 USD	13,38	XLON	6		
+JPM EUR Ultra-Short Income ETF EUR Acc GBP (XLON:JSET)	87,56 GBP	1,31	XLON	1		
+JPM GBP Ultra-Short Income ETF GBP Acc (XLON:JGSA)	110,01 GBP	4,93	XLON	2		
+JPM GBP Ultra-Short Income ETF GBP Inc (XLON:JGST)	100,77 GBP	4,42	XLON	2		
+JPM Global Equity Multi-Fac ETF USD Acc EUR (XETR:JPGL)	34,76 EUR	8,41	XETR	6		
+JPM USD Ultra-Short Income ETF USD Acc EUR (XETR:JPPA)	106,71 EUR	6,03	XETR	2		
+JPMorgan Diversified Return EMkts Eq ETF (ARCX:JPEM)	54,71 USD	8,32	ARCX			
+JPM BetaBuilders EUR Govt Bond ETFEURAcc EUR (XETR:BBEG)	90,86 EUR	-1,45	XETR	4		
+JPM BetaBuilders US Equity ETF USD Acc EUR (XETR:BBUS)	47,18 EUR	17,32	XETR	6		
+JPM BetaBuilders US Equity ETF USD Inc EUR (XETR:BBUD)	35,32 EUR	0,36	XETR	6		
+JPM BetaBuilders US Treasury BdETFUSDAcc EUR (XETR:BBTR)	93,72 EUR	3,21	XETR	4		
+JPM EUR CorpBd1-5yrRshEnh ESG ETF EURAcc EUR (XETR:JER5)	101,72 EUR	0,70	XETR	3		
+JPM EUR CorpBd RshEnh ESG ETF EUR Acc EUR (XETR:JREB)	100,95 EUR	0,28	XETR	4		
+JPM Europe Rsrch Enh Eq ESG ETF EUR Acc EUR (XETR:JREE)	43,03 EUR	9,85	XETR	6		
+JPM Global EM Rsh Enh Eq ESG ETF USD Acc EUR (XETR:JREM)	28,24 EUR	9,25	XETR	6		
+JPM Global Rsrch Enh Eq ESG ETF USD Acc EUR (XETR:JREG)	44,50 EUR	15,30	XETR	6		
+JPM US Research Enh Eq ESG ETF USD Acc EUR (XETR:JREU)	50,70 EUR	18,65	XETR	6		
+JPM USD CorpBd RshEnh ESG ETF USD Acc EUR (XETR:JRUB)	106,91 EUR	3,75	XETR	4		
+JPM USD Emerging Mkts Sov Bd ETF EURAccH (XETR:JMBE)	86,57 EUR	-0,59	XETR	5		
+JPM USD Emerging Mkts Sov Bd ETF USD Inc EUR (XETR:JPBM)	75,78 EUR	3,20	XETR	5		
+JPM USD Ultra-Short Income ETF USD Inc EUR (XETR:JPPS)	94,44 EUR	5,53	XETR	2		
+KraneShares Bosera MSCIChinaA50CntIdETF (ARCX:KBA)	22,00 USD	9,80	ARCX			
+KraneShares CSI China Internet ETF (ARCX:KWEB)	28,75 USD	10,06	ARCX			
+KraneShares CSI China Internet ETF EUR (XLON:KWBE LN)	13,08 EUR	12,48	XLON	7		
+KraneShares Eltc Vhl and Ft Mbly ETF (ARCX:KARS)	20,10 USD	-19,17	ARCX			
+KraneShares Global Carbon ETF (ARCX:KRBN)	32,46 USD	-8,06	ARCX			
+KraneShares MSCI All China Hlth Care ETF (ARCX:KURE)	14,05 USD	-16,97	ARCX			
+KraneShares MSCI China Clean Tech ETF (ARCX:KGRN)	20,12 USD	-9,60	ARCX			
+L&G Artificial Intelligence ETF EUR (XETR:XMLD)	17,99 EUR	8,70	XETR	7		
+L&G Battery Value-Chain ETF EUR (XETR:BATE)	16,03 EUR	2,42	XETR	7		
+L&G Cyber Security ETF EUR (XAMS:ISPY)	21,76 EUR	-0,18	XAMS	7		
+L&G Hydrogen Economy ETF USD Acc (XLON:HTWO)	4,62 USD	0,61	XLON	7		
+Lyxor DJ Global Titans 50 ETF Dist (XPAR:MGT)	78,83 EUR	25,74	XPAR	6		
+Lyxor DJ Industrial Average ETF Dist (XPAR:DJE)	363,40 EUR	6,65	XPAR	6		
+Lyxor STOXX Europe 600 Travel & Lsr ETF (XPAR:TRV)	28,37 EUR	-3,02	XPAR	7		
+Lyxor Smart Overnight Return ETF D EUR (XETR:EGV2)	102,33 EUR	1,88	XETR	1		
+Market Access Rogers Intl Cmdty ETF (XETR:M9SA)	29,10 EUR	10,54	XETR	6		
+MicroSectors™ US Big Oil 3X Lvrgd ETN (ARCX:NRGU)	444,13 USD	10,81	ARCX			
+Ossiam Europe ESG Machine Lrng ETF 1C € (XETR:OSX4)	241,05 EUR	8,75	XETR	5		
+Pacer Trendpilot US Bond ETF (ARCX:PTBD)	20,26 USD	5,15	ARCX			
+PIMCO Active Bond ETF (XNYS:BOND)	91,65 USD	4,55	XNYS			
+PIMCO S/T HY CorpBd Idx Source ETF Inc (XLON:STHY)	93,03 USD	5,58	XLON	4		
+ProShares Inflation Expectations (ARCX:RINF)	32,55 USD	8,02	ARCX			
+ProShares Long Online/Short Stores ETF (ARCX:CLIX)	41,56 USD	13,17	ARCX			
+ProShares Online Retail ETF (ARCX:ONLN)	39,74 USD	14,01	ARCX			
+ProShares Short 20+ Year Treasury (ARCX:TBF)	23,28 USD	9,62	ARCX			
+ProShares Short Dow30 (ARCX:DOG)	29,61 USD	4,19	ARCX			
+ProShares Short MidCap400 (ARCX:MYY)	20,88 USD	1,39	ARCX			
+ProShares Short QQQ (ARCX:PSQ)	41,20 USD	-9,05	ARCX			
+ProShares Short Russell2000 (ARCX:RWM)	21,47 USD	6,60	ARCX			
+ProShares Short S&P500 (ARCX:SH)	11,64 USD	-6,28	ARCX			
+ProShares Ultra 20+ Year Treasury (ARCX:UBT)	20,32 USD	-5,81	ARCX			
+ProShares Ultra Dow30 (ARCX:DDM)	81,11 USD	6,14	ARCX			
+ProShares Ultra Energy (ARCX:DIG)	39,09 USD	10,57	ARCX			
+ProShares Ultra Financials (ARCX:UYG)	62,50 USD	17,10	ARCX			
+ProShares Ultra Real Estate (ARCX:URE)	56,88 USD	-7,52	ARCX			
+ProShares Ultra S&P500 (ARCX:SSO)	82,05 USD	30,63	ARCX			
+ProShares UltraPro QQQ (XNAS:TQQQ)	74,17 USD	51,73	XNAS			
+ProShares UltraPro Russell2000 (ARCX:URTY)	41,02 USD	-8,57	ARCX			
+ProShares UltraPro S&P500 (ARCX:UPRO)	76,08 USD	43,91	ARCX			
+ProShares UltraPro Short QQQ (XNAS:SQQQ)	8,43 USD	-34,20	XNAS			
+ProShares UltraShort 20+ Year Treasury (ARCX:TBT)	32,79 USD	13,41	ARCX			
+ProShares UltraShort Financials (ARCX:SKF)	12,99 USD	-7,71	ARCX			
+Renaissance International IPO ETF (ARCX:IPOS)	13,16 USD	-2,56	ARCX			
+Rize Digital Payments Ecoy ETF A $ Acc EUR (XETR:PMNT)	3,28 EUR	-4,04	XETR	7		
+Rize Sustainable Future of Fd ETF A USD (XLON:FOOD)	3,88 USD	-2,27	XLON	6		
+Rize Cybersecurity Data Privacy ETF EUR (XETR:RCRS)	6,43 EUR	-3,96	XETR	6		
+Robo Global® Hlthcare Tech & Innovt ETF (ARCX:HTEC)	27,43 USD	1,15	ARCX			
+Robo Global® Robotics&Automation ETF (ARCX:ROBO)	54,93 USD	-0,92	ARCX			
+Roundhill Ball Metaverse ETF (ARCX:METV)	13,04 USD	17,10	ARCX			
+Schwab US Dividend Equity ETF™ (ARCX:SCHD)	76,79 USD	5,06	ARCX			
+Siren Nasdaq NexGen Economy ETF (XNAS:BLCN)	26,68 USD	13,07	XNAS			
+SPDR® Blmbg 1-3 Mth T-Bill ETF (ARCX:BIL)	91,62 USD	5,86	ARCX	1		
+SPDR® Blmbrg SASB US Hi Yld Corp ESG ETF EUR (XETR:SYBK)	37,88 EUR	6,25	XETR	4		
+SPDR® Blmbg ST HY Bd ETF (ARCX:SJNK)	24,92 USD	5,73	ARCX	3		
+SPDR® Dow Jones Industrial Avrg ETF Tr (ARCX:DIA)	386,46 USD	6,69	ARCX	6		
+SPDR® EURO STOXX 50 ETF (ARCX:FEZ)	50,46 USD	9,30	ARCX	6		
+SPDR® Gold Shares (ARCX:GLD)	215,73 USD	16,64	ARCX			
+SPDR® MSCI ACWI EUR Hdg ETF Acc (XETR:SPP1)	19,05 EUR	11,34	XETR	6		
+SPDR® MSCI EM Asia ETF EUR (XPAR:EMAE)	68,79 EUR	9,66	XPAR	6		
+SPDR® MSCI Europe Communication Svcs ETF (XPAR:STT)	63,20 EUR	6,88	XPAR	6		
+SPDR® MSCI Europe Consumer Discret ETF (XPAR:STR)	174,20 EUR	5,09	XPAR	6		
+SPDR® MSCI Europe Energy ETF (XPAR:STN)	202,20 EUR	3,70	XPAR	7		
+SPDR® MSCI Europe Financials ETF (XPAR:STZ)	82,75 EUR	12,37	XPAR	7		
+SPDR® MSCI Europe Health Care ETF (XPAR:STW)	233,50 EUR	16,31	XPAR	6		
+SPDR® MSCI Europe Industrials ETF (XPAR:STQ)	308,60 EUR	10,63	XPAR	6		
+SPDR® MSCI Europe Small Cap ETF (XPAR:SMC)	306,30 EUR	6,28	XPAR	6		
+SPDR® MSCI Europe Sm Cap Val Wtd ETF EUR (XETR:ZPRX)	48,77 EUR	3,62	XETR	6		
+SPDR® MSCI Europe Technology ETF (XPAR:STK)	145,64 EUR	18,58	XPAR	7		
+SPDR® MSCI Europe ETF (XPAR:ERO)	308,53 EUR	9,43	XPAR	6		
+SPDR® MSCI Europe Utilities ETF (XPAR:STU)	160,86 EUR	-2,32	XPAR	6		
+SPDR® MSCI USA Small Cap Val Wtd ETF USD EUR (XETR:ZPRV)	56,74 EUR	-0,72	XETR	7		
+SPDR® MSCI World Energy ETF EUR (XAMS:WNRG)	46,58 EUR	7,69	XAMS	7		
+SPDR® MSCI World Health Care ETF EUR (XAMS:WHEA)	58,53 EUR	11,17	XAMS	6		
+SPDR® MSCI World Technology ETF USD Acc EUR (XAMS:WTCH)	158,00 EUR	30,32	XAMS	6		
+SPDR® MSCI World ETF EUR (XAMS:SWRD)	34,32 EUR	14,97	XAMS	6		
+SPDR® Portfolio Long Term Treasury ETF (ARCX:SPTL)	27,96 USD	1,17	ARCX			
+SPDR® Portfolio S&P 500 Growth ETF (ARCX:SPYG)	79,94 USD	27,19	ARCX	5		
+SPDR® S&P 500® ETF Trust (ARCX:SPY)	542,78 USD	18,40	ARCX	5		
+SPDR® S&P 600 Small Cap Value ETF (ARCX:SLYV)	77,30 USD	-3,67	ARCX			
+SPDR® S&P Aerospace & Defense ETF (ARCX:XAR)	138,69 USD	5,98	ARCX			
+SPDR® S&P Bank ETF (ARCX:KBE)	43,94 USD	-0,62	ARCX	6		
+SPDR® S&P Biotech ETF (ARCX:XBI)	91,75 USD	6,21	ARCX	7		
+SPDR® S&P Dividend ETF (ARCX:SDY)	127,73 USD	6,23	ARCX	5		
+SPDR® S&P Insurance ETF (ARCX:KIE)	48,97 USD	12,36	ARCX			
+SPDR® S&P Kensho New Economies Comps ETF (ARCX:KOMP)	46,35 USD	2,77	ARCX			
+SPDR® S&P Kensho Smart Mobility ETF (ARCX:HAIL)	28,27 USD	-6,65	ARCX			
+SPDR® S&P Metals and Mining ETF (ARCX:XME)	58,21 USD	0,74	ARCX	7		
+SPDR® S&P Regional Banking ETF (ARCX:KRE)	46,12 USD	-8,35	ARCX	6		
+SPDR® S&P Telecom ETF (ARCX:XTL)	75,37 USD	-2,34	ARCX			
+SPDR® S&P US Energy Select Sector ETF EUR (XAMS:SXLE)	31,17 EUR	9,27	XAMS	7		
+The 3D Printing ETF (BATS:PRNT)	19,80 USD	-11,90	BATS			
+The Consumer Discret Sel SectSPDR® ETF (ARCX:XLY)	178,33 USD	3,30	ARCX	5		
+The Consumer Staples Sel SectSPDR® ETF (ARCX:XLP)	76,95 USD	11,23	ARCX	5		
+The Energy Select Sector SPDR® ETF (ARCX:XLE)	88,04 USD	9,41	ARCX	6		
+The Financial Select Sector SPDR® ETF (ARCX:XLF)	40,65 USD	12,16	ARCX	6		
+The Health Care Select Sector SPDR® ETF (ARCX:XLV)	145,88 USD	10,96	ARCX	5		
+The Industrial Select Sector SPDR® ETF (ARCX:XLI)	121,15 USD	10,19	ARCX	5		
+The Materials Select Sector SPDR® ETF (ARCX:XLB)	88,98 USD	7,90	ARCX	5		
+The Real Estate Select Sector SPDR® (ARCX:XLRE)	38,53 USD	0,09	ARCX	5		
+The Technology Select Sector SPDR® ETF (ARCX:XLK)	227,67 USD	22,46	ARCX	5		
+The Utilities Select Sector SPDR® ETF (ARCX:XLU)	69,94 USD	15,09	ARCX	5		
+US Global Jets ETF (ARCX:JETS)	19,44 USD	5,59	ARCX			
+UBS ETF Fact MSCI USA LowVol H EUR A acc EUR (XAMS:UBUV)	26,47 EUR	4,58	XAMS	6		
+UBS ETF Fact MSCI USA LowVol USD A dis EUR (XAMS:UBUR)	28,12 EUR	7,37	XAMS	6		
+UBS ETF Fac MSCI USA PrmVal ESG EURh A a EUR (XAMS:UBUW)	28,58 EUR	3,55	XAMS	6		
+UBS ETF Fact MSCI USA PrmVal ESG USD A d EUR (XAMS:UBUS)	32,20 EUR	8,29	XAMS	6		
+UBS ETF Fact MSCI USA Qual ESG H EUR A a EUR (XAMS:UBUX)	40,74 EUR	16,19	XAMS	6		
+UBS ETF Fact MSCI USA Qual ESG USD A dis EUR (XAMS:UBUT)	48,05 EUR	20,96	XAMS	6		
+UBS ETF MSCI ACWI SRI H EUR A-a EUR (XAMS:AWSR)	16,18 EUR	11,29	XAMS	6		
+UBS ETF MSCI Australia H EUR A acc EUR (XAMS:UE28)	20,02 EUR	4,68	XAMS	6		
+UBS ETF MSCI UK IMI SRI GBP A dis EUR (XAMS:UKSR)	19,09 EUR	8,55	XAMS	6		
+UBS ETF MSCI USA H EUR A acc EUR (XETR:UBUJ)	41,79 EUR	12,58	XETR	6		
+UBS ETF MSCI USA H EUR A dis EUR (XAMS:UE31)	36,80 EUR	13,21	XAMS	6		
+UBS ETF MSCI USA (USD) A-dis EUR (XAMS:UBU3)	122,99 EUR	17,81	XAMS	6		
+UBS (Irl) ETF plc MSCI World USD A dis EUR (XAMS:UBU7)	82,26 EUR	15,04	XAMS	6		
+UBS ETF S&P 500 USD A dis EUR (XAMS:UBU9)	82,00 EUR	18,28	XAMS	6		
+UBS S&P Div Arist ESG Elite ETF USD A-d EUR (XAMS:UBUM)	8,96 EUR	0,59	XAMS	6		
+UBS FS CMCI Cmdty Crry SF EURH Aacc ETF (XETR:UEQV)	120,36 EUR	1,36	XETR	4		
+UBS ETF BBG EA LiqCorp 1-5Yr EUR A-d EUR (XAMS:UEF6)	13,06 EUR	0,79	XAMS	3		
+UBS ETF BBG MSCI EA liq Crp Sust EUR A-d (XAMS:CBSE)	12,95 EUR	0,57	XAMS	4		
+UBS ETF BBG MSCI EUR LC 1-5 Yr SST ETF EUR (XETR:UIQL)	10,30 EUR	0,73	XETR	3		
+UBS ETF BBG MSCI US Liq Cp Sust EURh A-a EUR (XAMS:UE27)	14,52 EUR	-0,64	XAMS	5		
+UBS ETF BBG MSCI US Liq Crp Sust USD A-d EUR (XAMS:UE25)	14,10 EUR	3,46	XAMS	5		
+UBS ETF BBG US 1-3Yr T-bonds USD A-d EUR (XAMS:UEFF)	22,82 EUR	4,43	XAMS	2		
+UBS ETF BBG US 7-10Yr T-bonds USD A-d EUR (XAMS:UEFI)	35,20 EUR	2,66	XAMS	4		
+UBS(Lux)FS Blmbg US LqCrp1-5YrEURH A EUR (XAMS:UEF8)	14,34 EUR	0,72	XAMS	4		
+UBS(Lux)FS Blmbg USLqCrp1-5YrUSDAdis EUR (XAMS:UEF7)	12,94 EUR	4,77	XAMS	3		
+UBS(Lux)FS Blmbg US LiqCorpEURH Aacc EUR (XAMS:UEF0)	16,76 EUR	-0,48	XAMS	5		
+UBS(Lux)FS Blmbg US LiqCorp USD Adis EUR (XAMS:UEF9)	13,94 EUR	3,58	XAMS	5		
+UBS(Lux)FS EURO STOXX 50 EUR Adis EUR (XAMS:UIM1)	49,69 EUR	9,77	XAMS	6		
+UBS(Lux)FS Fact MSCI EMU LowVol EUR Adis EUR (XAMS:UIMY)	15,69 EUR	3,68	XAMS	6		
+UBS(Lux)FS Fact MSCI EMUPrmValESGEURAdis EUR (XAMS:UIMZ)	19,73 EUR	4,90	XAMS	6		
+UBS(Lux)FS Fact MSCI EMU Qual ESGEURAdis EUR (XAMS:UIM2)	26,89 EUR	9,09	XAMS	6		
+UBS(Lux)FS MSCI Canada CAD Adis EUR (XAMS:UIM9)	37,83 EUR	3,60	XAMS	6		
+UBS(Lux)FS MSCI Canada EURH Aacc EUR (XAMS:U1FA)	23,95 EUR	3,96	XAMS	6		
+UBS(Lux)FS MSCI EM SRI USD Adis EUR (XAMS:UEF5)	12,11 EUR	6,55	XAMS	6		
+UBS(Lux)FS MSCI EM USD Adis EUR (XAMS:UIMI)	98,93 EUR	8,82	XAMS	6		
+UBS(Lux)FS MSCI EMU Sel Fac Mix EUR Aacc EUR (XETR:UIQN)	13,50 EUR	6,79	XETR	6		
+UBS(Lux)FS MSCI EMU Small Cap EUR Adis EUR (XAMS:UEFD)	121,05 EUR	3,46	XAMS	6		
+UBS(Lux)FS MSCI EMU SRI EUR Adis EUR (XAMS:UIMR)	118,12 EUR	8,57	XAMS	6		
+UBS(Lux)FS MSCI EMU EUR Adis EUR (XAMS:UIM4)	162,26 EUR	8,25	XAMS	6		
+UBS(Lux)FS MSCI Europe EUR Adis EUR (XAMS:UIMA)	85,86 EUR	9,63	XAMS	6		
+UBS(Lux)FS MSCI Hong Kong HKD Adis EUR (XAMS:HKDE)	12,01 EUR	-5,34	XAMS	6		
+UBS(Lux)FS MSCI Japan SRI JPY Adis EUR (XAMS:JPSR)	21,67 EUR	4,58	XAMS	6		
+UBS(Lux)FS MSCI Japan JPY Adis EUR (XAMS:UIM5)	50,33 EUR	9,26	XAMS	6		
+UBS(Lux)FS MSCI Pacific ex Jpn USD Adis EUR (XAMS:UIMD)	39,56 EUR	3,44	XAMS	6		
+UBS(Lux)FS MSCI Pacific SRI USD Adis EUR (XAMS:UIMT)	70,00 EUR	4,09	XAMS	6		
+UBS(Lux)FS MSCI Singapore SGD Adis EUR (XAMS:UE24)	14,85 EUR	10,83	XAMS	6		
+UBS(Lux)FS MSCI USA SRI EURH Adis EUR (XAMS:UE33)	25,65 EUR	6,95	XAMS	6		
+UBS(Lux)FS MSCI USA SRI USD Adis EUR (XAMS:UIMP)	199,42 EUR	11,41	XAMS	6	
+UBS(Lux)FS MSCI World SRI USD Adis EUR (XAMS:UIMM)	146,79 EUR	12,93	XAMS	6		
+VanEck Africa ETF (ARCX:AFK)	15,60 USD	16,84	ARCX			
+VanEck Agribusiness ETF (ARCX:MOO)	69,89 USD	-5,17	ARCX			
+VanEck Brazil Small-Cap ETF (ARCX:BRF)	13,68 USD	-19,64	ARCX			
+VanEck Environmental Svcs ETF (ARCX:EVX)	167,17 USD	13,37	ARCX			
+VanEck Fallen Angel HiYld Bd ETF (XNAS:ANGL)	28,49 USD	5,00	XNAS			
+VanEck Gaming ETF (XNAS:BJK)	39,43 USD	-3,65	XNAS			
+VanEck Gold Miners ETF (ARCX:GDX)	33,41 USD	11,36	ARCX	7		
+VanEck Gold Miners ETF EUR (XETR:G2X)	34,31 EUR	9,44	XETR	7		
+VanEck Indonesia ETF (ARCX:IDX)	15,06 USD	-8,81	ARCX			
+VanEck Low Carbon Energy ETF (ARCX:SMOG)	99,61 USD	-6,94	ARCX			
+VanEck Natural Resources ETF (ARCX:HAP)	49,46 USD	4,74	ARCX			
+VanEck Russia ETF (BATS:RSX)	5,62 USD	3,36	BATS			
+VanEck Semiconductor ETF (XNAS:SMH)	267,89 USD	58,34	XNAS			
+VanEck Semiconductor ETF EUR (XETR:VVSM)	43,38 EUR	42,79	XETR	7		
+VanEck Space Innovators ETF A USD Acc EUR (XETR:JEDI)	20,69 EUR	-5,83	XETR	7		
+VanEck Steel ETF (ARCX:SLX)	65,16 USD	-8,69	ARCX			
+VanEck Sust Fut of Food ETF A USD Acc EUR (XETR:VE6I)	19,07 EUR	8,98	XETR	6		
+VanEck Vdo Gaming and eSprts ETF (XNAS:ESPO)	65,96 USD	20,18	XNAS			
+VanEck Vietnam ETF (BATS:VNM)	12,70 USD	1,60	BATS			
+Vanguard Consumer Staples ETF (ARCX:VDC)	203,70 USD	10,72	ARCX			
+Vanguard Dividend Appreciation ETF (ARCX:VIG)	182,83 USD	11,37	ARCX			
+Vanguard Energy ETF (ARCX:VDE)	123,17 USD	9,36	ARCX			
+Vanguard ESG Glbl All Cap ETF USD Acc EUR (XAMS:V3AA)	5,64 EUR	13,38	XAMS	6		
+Vanguard ESG Glbl All Cap ETF USD Inc EUR (XAMS:V3AL)	5,37 EUR	13,84	XAMS	6		
+Vanguard EUR Corp Bd UCITS ETF (XAMS:VECP)	47,78 EUR	0,36	XAMS	4		
+Vanguard EUR Corp Bd ETF EUR Acc (XETR:VECA)	49,67 EUR	0,38	XETR	4		
+Vanguard EUR Euroz Gov Bd UCITS ETF (XAMS:VETY)	22,37 EUR	-1,20	XAMS	4		
+Vanguard FTSE 100 UCITS ETF EUR (XETR:VUKE)	41,91 EUR	10,66	XETR	6		
+Vanguard FTSE All-Wld ex-US SmCp ETF (ARCX:VSS)	117,56 USD	5,63	ARCX			
+Vanguard FTSE AllWld HiDivYld ETF $Dis GBP (XLON:VHYL)	50,93 GBP	8,08	XLON	6		
+Vanguard FTSE All-World UCITS ETF EUR (XAMS:VWRL)	121,50 EUR	14,16	XAMS	6		
+Vanguard FTSE All-World ETF USD Acc (XLON:VWRA)	130,22 USD	13,64	XLON	6		
+Vanguard FTSE Dev AsiaPac exJpn ETF $Dis EUR (XAMS:VAPX)	23,63 EUR	2,09	XAMS	6		
+Vanguard FTSE Dev Eurp ex UK ETF Dis (XAMS:VERX)	39,90 EUR	8,59	XAMS	6		
+Vanguard FTSE Dev Eurp UCITS ETF (XAMS:VEUR)	39,44 EUR	9,37	XAMS	6		
+Vanguard FTSE Dev World ETF USD Acc EUR (XETR:VGVF)	96,26 EUR	13,68	XETR	6		
+Vanguard FTSE Dev World ETF $Dis EUR (XAMS:VEVE)	93,93 EUR	14,48	XAMS	6		
+Vanguard FTSE Emerging Markets ETF (ARCX:VWO)	43,76 USD	10,15	ARCX			
+Vanguard FTSE Emerg Markets ETF $Dis EUR (XAMS:VFEM)	55,45 EUR	11,06	XAMS	6		
+Vanguard FTSE Europe ETF (ARCX:VGK)	67,59 USD	8,95	ARCX			
+Vanguard FTSE Japan ETF $Dis EUR (XAMS:VJPN)	32,92 EUR	8,40	XAMS	6		
+Vanguard FTSE North America UCITS ETF EUR (XAMS:VNRT)	122,23 EUR	17,11	XAMS	6		
+Vanguard ESG Glb Corp Bd ETF EUR H Acc EUR (XAMS:V3GF)	4,53 EUR	0,01	XAMS	4		
+Vanguard ESG Glb Corp Bd ETF EUR H Inc EUR (XAMS:V3GE)	4,12 EUR	0,01	XAMS	4		
+Vanguard ESG Glb Corp Bd ETF GBP H Acc (XLON:V3GS)	4,69 GBP	5,44	XLON	4		
+Vanguard ESG Glb Corp Bd ETF GBP H Inc (XLON:V3GP)	4,27 GBP	3,24	XLON	4		
+Vanguard ESG Glb Corp Bd ETF USD H Acc (XLON:V3GU)	4,82 USD	4,08	XLON	4		
+Vanguard ESG Glb Corp Bd ETF USD H Inc (XLON:V3GD)	4,39 USD	4,05	XLON	4		
+Vanguard Germany All Cap ETF EUR Inc (XETR:VGER)	26,86 EUR	6,39	XETR	6		
+Vanguard Global Aggt Bd ETF EUR H Acc (XETR:VAGF)	22,81 EUR	-0,46	XETR	3		
+Vanguard Global ex-US Real Est ETF (XNAS:VNQI)	40,95 USD	-0,62	XNAS			
+Vanguard Health Care ETF (ARCX:VHT)	265,99 USD	10,00	ARCX			
+Vanguard High Dividend Yield ETF (ARCX:VYM)	118,42 USD	10,26	ARCX			
+Vanguard Information Technology ETF (ARCX:VGT)	579,41 USD	24,03	ARCX			
+Vanguard LifeStrategy 20% Eq ETF EUR Acc EUR (XAMS:V20A)	23,79 EUR	2,24	XAMS	4		
+Vanguard LifeStrategy 40% Eq ETF EUR Acc EUR (XAMS:V40A)	26,78 EUR	4,98	XAMS	4		
+Vanguard LifeStrategy 60% Eq ETF EUR Acc EUR (XAMS:V60A)	30,11 EUR	7,88	XAMS	4		
+Vanguard LifeStrategy 80% Eq ETF EUR Acc EUR (XAMS:V80A)	33,90 EUR	11,26	XAMS	5		
+Vanguard Real Estate ETF (ARCX:VNQ)	84,00 USD	-0,89	ARCX			
+Vanguard Russell 2000 ETF (XNAS:VTWO)	80,60 USD	2,93	XNAS			
+Vanguard S&P 500 ETF (ARCX:VOO)	498,98 USD	18,45	ARCX			
+Vanguard S&P 500 UCITS ETF EUR (XAMS:VUSA)	95,99 EUR	18,29	XAMS	6		
+Vanguard S&P 500 ETF USD Acc EUR (XETR:VUAA)	95,85 EUR	17,72	XETR	6		
+Vanguard Short-Term Bond ETF (ARCX:BSV)	76,75 USD	4,37	ARCX			
+Vanguard Short-Term Infl-Prot Secs ETF (XNAS:VTIP)	48,35 USD	5,29	XNAS			
+Vanguard Small-Cap ETF (ARCX:VB)	216,02 USD	4,98	ARCX			
+Vanguard Total Bond Market ETF (XNAS:BND)	72,66 USD	3,62	XNAS			
+Vanguard Total International Bond ETF (XNAS:BNDX)	48,95 USD	3,43	XNAS			
+Vanguard Total International Stock ETF (XNAS:VXUS)	60,45 USD	8,20	XNAS			
+Vanguard Total Stock Market ETF (ARCX:VTI)	266,69 USD	16,61	ARCX			
+Vanguard Total World Stock ETF (ARCX:VT)	112,41 USD	13,37	ARCX			
+Vanguard USD Corp Bd UCITS ETF EUR (XAMS:VUCP)	44,13 EUR	3,91	XAMS	4		
+Vanguard USD Corp Bd ETF EUR H Acc (XETR:VDCE)	52,55 EUR	-0,19	XETR	4		
+Vanguard USD EmMktsGovBd UCITS ETF EUR (XAMS:VEMT)	39,11 EUR	5,45	XAMS	4		
+Vanguard USD Trs Bd UCITS ETF EUR (XAMS:VUTY)	20,23 EUR	3,14	XAMS	4		
+Vanguard Value ETF (ARCX:VTV)	160,19 USD	11,44	ARCX			
+WisdomTree Agriculture EUR (XETR:OD7U)	6,61 EUR	0,00	XETR			
+WisdomTree Agriculture EUR (XPAR:AIGAP)	5,12 EUR	0,00	XPAR			
+WisdomTree Aluminium EUR (XETR:OD7A)	3,17 EUR	0,00	XETR			
+WisdomTree Art Intelligence ETF USD Acc EUR (XETR:WTI2)	59,50 EUR	5,07	XETR	6		
+WisdomTree Battery Solutions ETF USD Acc EUR (XETR:W1TA)	28,28 EUR	-8,85	XETR	7		
+WisdomTree BioRevolution ETF - USD Acc EUR (XETR:WRNA)	16,04 EUR	-4,56	XETR	6		
+WisdomTree Broad Commodities ETC EUR (XPAR:AIGCP)	8,65 EUR	0,00	XPAR			
+WisdomTree Cloud Computing ETF - USD Acc EUR (XETR:WTEJ)	27,73 EUR	-12,15	XETR	7		
+WisdomTree Copper ETC EUR (XETR:OD7C)	30,06 EUR	0,00	XETR			
+WisdomTree Corn ETC (XLON:CORN)	22,45 USD	-3,47	XLON			
+WisdomTree Corn ETC EUR (XETR:OD7D)	1,32 EUR	0,00	XETR			
+WisdomTree Emerging Markets High Div ETF (ARCX:DEM)	43,28 USD	10,56	ARCX			
+WisdomTree Emerging Markets SmCp Div ETF (ARCX:DGS)	51,68 USD	7,11	ARCX			
+WisdomTree Europe SmallCap Div ETF - Acc (XLON:DFEA)	20,02 EUR	6,91	XLON	6		
+WisdomTree NASDAQ 100 3x Daily Leveraged (XLON:QQQ3)	221,27 USD	47,17	XLON			
+WisdomTree Natural Gas 2x Dl Lvrgd ETC (XLON:LNGA)	0,11 USD	-25,80	XLON			
+WisdomTree Natural Gas 3x Daily Short (XLON:3NGS)	737,77 USD	-32,34	XLON			
+WisdomTree Nickel ETC EUR (XETR:OD7M)	19,27 EUR	0,00	XETR			
+WisdomTree Physical Palladium ETC EUR (XAMS:PHPD)	163,61 EUR	0,00	XAMS			
+WisdomTree Physical Platinum ETC EUR (XETR:VZLA)	82,36 EUR	0,00	XETR			
+WisdomTree S&P 500 3x Daily Leveraged (XLON:3USL)	95,64 USD	40,88	XLON			
+WisdomTree Short JPY Long USD 3x Dl (XLON:SJP3)	299,02 USD	52,54	XLON	7		
+WisdomTree Wheat ETC (XLON:WEAT)	25,03 USD	-0,82	XLON			
+WisdomTree WTI Crude Oil ETC EUR (XPAR:CRUDP)	5,56 EUR	0,00	XPAR			
+Xetra-Gold EUR (XETR:4GLD)	69,90 EUR	16,69	XETR	5		
+Xtrackers Comdty ex Agri Swap ETF 1C EUR (XETR:XDBC)	25,34 EUR	10,63	XETR	6		
+Xtrackers CSI 300 Swap ETF 1C (XLON:XCHA)	13,27 USD	5,47	XLON	6		
+Xtrackers IE Physical Platinum ETC 1 EUR (XETR:XPPT)	21,98 EUR	-1,86	XETR	4		
+Xtrackers Euro Stoxx 50 ShDly Swp ETF 1C (XETR:DXSP)	6,80 EUR	-5,90	XETR	6		
+Xtrackers Euro Stoxx 50 ETF 1C (XETR:XESC)	81,54 EUR	9,41	XETR	6		
+Xtrackers Euro Stoxx 50 ETF 1D (XETR:XESX)	50,98 EUR	9,34	XETR	6		
+Xtrackers FTSE China 50 ETF 1C EUR (XETR:DBX9)	25,17 EUR	14,33	XETR	7		
+Xtrackers FTSE Vietnam Swap ETF 1C EUR (XETR:DXS7)	25,07 EUR	0,99	XETR	6		
+Xtrackers Harvest CSI 300 China A ETF (ARCX:ASHR)	24,23 USD	4,74	ARCX			
+Xtrackers EUR Corp Yield Plus ETF 1D EUR (XETR:XDEP)	14,77 EUR	0,69	XETR	4		
+Xtrackers IE Physical Gold ETC EUR (XETR:XGDU)	33,52 EUR	16,42	XETR	3		
+Xtrackers IE Physical Gold EUR Hdg ETC 5 (XETR:XGDE)	29,91 EUR	11,56	XETR	3		
+Xtrackers IE Physical Platinum EURH ETC (XETR:XPPE)	18,95 EUR	-6,17	XETR	4		
+Xtrackers IE Physical Silver EUR H ETC 4 (XETR:XSLE)	33,68 EUR	20,79	XETR	4		
+Xtrackers EUR Corp Bd SRI PAB ETF1D (XETR:XB4F)	139,00 EUR	0,23	XETR	3		
+Xtrackers EUR Corporate Bd ETF 1C (XETR:D5BG)	151,57 EUR	0,29	XETR	3		
+Xtrackers EUR HY Corp Bond ETF 1D (XETR:XHYG)	15,60 EUR	0,75	XETR	4		
+Xtrackers EUR Overnight Rate Swap ETF 1C (XETR:XEON)	142,12 EUR	1,84	XETR	1		
+Xtrackers Eurz Govt Bd 1-3 ETF 1C (XETR:DBXP)	165,33 EUR	0,22	XETR	2		
+Xtrackers Eurz Govt Bd 15-30 ETF 1C (XETR:DBXF)	280,10 EUR	-3,21	XETR	5		
+Xtrackers Eurz Govt Bd 25+ ETF 1C (XETR:DBXG)	271,75 EUR	-5,20	XETR	6		
+Xtrackers Eurz Govt Bd 3-5 ETF 1C (XETR:DBXQ)	195,57 EUR	-0,73	XETR	3		
+Xtrackers Eurz Govt Bd 5-7 ETF 1C (XETR:X57E)	222,58 EUR	-1,26	XETR	4		
+Xtrackers Eurz Govt Bd 7-10 ETF 1C (XETR:X710)	241,77 EUR	-1,75	XETR	4		
+Xtrackers Eurz Govt Bd ETF 1C (XETR:XGLE)	214,19 EUR	-1,49	XETR	4		
+Xtrackers Eurz Inf-Lnk Bd ETF 1C (XETR:XEIN)	234,28 EUR	-1,48	XETR	4		
+Xtrackers II iBoxx Euroz GovtBdYld+ETF1C (XETR:XY4P)	171,00 EUR	-0,39	XETR	4		
+Xtrackers USD EM Bd ETF 1C EUR (XETR:XEMB)	283,32 EUR	1,59	XETR	5		
+Xtrackers MSCI Canada ESG Scr ETF 1C EUR (XETR:D5BH)	70,07 EUR	3,53	XETR	6		
+Xtrackers MSCI China ETF 1C EUR (XETR:XCS6)	12,91 EUR	10,77	XETR	7		
+Xtrackers MSCI EM Swap ETF 1C EUR (XETR:XMEM)	47,55 EUR	10,14	XETR	6		
+Xtrackers MSCI Emerging Markets ETF 1C EUR (XETR:XMME)	52,26 EUR	10,11	XETR	6		
+Xtrackers MSCI EMU ETF 1D (XETR:XD5E)	51,71 EUR	7,91	XETR	6		
+Xtrackers MSCI Eur Small Cap ETF 1C EUR (XETR:XXSC)	58,12 EUR	4,87	XETR	7		
+Xtrackers MSCI Europe ETF 1C EUR (XETR:XMEU)	89,82 EUR	9,07	XETR	6		
+Xtrackers MSCI Japan Hedged Equity ETF (ARCX:DBJP)	74,65 USD	24,36	ARCX			
+Xtrackers MSCI Japan ETF 1C EUR (XETR:DBXJ)	73,23 EUR	8,89	XETR	6		
+Xtrackers MSCI USA Energy ETF 1D EUR (XETR:XUEN)	42,27 EUR	8,50	XETR	7		
+Xtrackers MSCI USA ETF 1C EUR (XETR:XD9U)	146,23 EUR	17,16	XETR	6		
+Xtrackers MSCI World Energy ETF 1C (XLON:XDW0)	48,72 USD	7,51	XLON	7		
+Xtrackers MSCI World IT ETF 1C EUR (XETR:XDWT)	84,25 EUR	29,30	XETR	6		
+Xtrackers MSCI World Material ETF 1C (XLON:XDWM)	58,31 USD	2,73	XLON	6		
+Xtrackers MSCI World ETF 1C EUR (XETR:XDWD)	102,89 EUR	14,37	XETR	6		
+Xtrackers NASDAQ 100 ETF 1C EUR (XETR:XNAS)	42,15 EUR	20,14	XETR	6		
+Xtrackers Nikkei 225 ETF 1C EUR (XETR:XNKY)	73,43 EUR	7,67	XETR	6		
+Xtrackers Physical Gold ETC (EUR) EUR (XETR:XAD5)	209,46 EUR	16,37	XETR			
+Xtrackers Physical Gold EUR Hedged ETC (XETR:XAD1)	139,69 EUR	11,48	XETR			
+Xtrackers Portfolio ETF 1C (XETR:XQUI)	285,85 EUR	5,99	XETR	5		
+Xtrackers S&P 500 2xLev Dly Swap ETF 1C EUR (XETR:DBPG)	190,58 EUR	29,59	XETR	7		
+Xtrackers S&P 500 EW ETF 1C USD (XLON:XDEW)	88,10 USD	6,79	XLON	6		
+Xtrackers S&P 500 Inv Dly Swap ETF 1C EUR (XETR:DXS3)	6,53 EUR	-5,18	XETR	6		
+Xtrackers S&P 500 Swap ETF 1C EUR (XETR:D5BM)	100,07 EUR	17,78	XETR	6		
+Xtrackers S&P 500 ETF 1C EUR (XETR:XDPE)	77,64 EUR	12,90	XETR	6		
+Xtrackers S&P Selec Frontier Swap ETF 1C EUR (XETR:DX2Z)	17,20 EUR	10,74	XETR	6		
+Xtrackers ShortDAX Dly Swp ETF 1C (XETR:DXSN)	12,16 EUR	-4,04	XETR	6		
+Xtrackers Stoxx Europe 600 ETF 1C (XETR:XSX6)	125,70 EUR	8,93	XETR	6		
+Xtrackers Stoxx Global Div100 Swp ETF 1D GBP (XLON:XGSD)	2 321,75 GBX	5,17	XLON	6		
+Xtrackers Switzerland ETF 1D EUR (XETR:XSMI)	131,40 EUR	6,97	XETR	6		
+Xtrackers USD Corporate Bond ETF 1D EUR (XETR:XDGU)	11,89 EUR	3,24	XETR	5		
+Xtrackers USD HY Corp Bond ETF 1D EUR (XETR:XUHY)	11,67 EUR	4,48	XETR	5	
