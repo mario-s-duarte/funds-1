@@ -1,4 +1,5 @@
-cotacoes_morningstar/*.csv
-./*.csv
-./*.xlsx
+*.xlsx
+*.csv
 __pycache__/*.*
+cotacoes_morningstar/*.csv
+*.png

@@ -598,23 +598,6 @@ iShares US Consumer Discretionary ETF (ARCX:IYC)	79,88 USD	9,27	ARCX
 iShares US Consumer Staples ETF (ARCX:IYK)	65,58 USD	7,17	ARCX			
 iShares US Property Yield ETF USD Dist EUR (XAMS:IUSP)	25,72 EUR	0,14	XAMS	7		
 iShares Core EURO STOXX 50 ETF EUR Acc GBP (XLON:CS51)	15 031,00 GBX	9,00	XLON	6		
-iShares US Financials ETF (ARCX:IYF)	92,59 USD	12,78	ARCX			
-iShares US Healthcare ETF (ARCX:IYH)	60,93 USD	10,53	ARCX			
-iShares US Home Construction ETF (BATS:ITB)	103,93 USD	5,82	BATS			
-iShares US Industrials ETF (BATS:IYJ)	119,10 USD	8,09	BATS			
-iShares US Oil & Gas Explor & Prod ETF (BATS:IEO)	96,41 USD	8,08	BATS			
-iShares US Pharmaceuticals ETF (ARCX:IHE)	66,21 USD	11,68	ARCX			
-iShares US Real Estate ETF (ARCX:IYR)	87,06 USD	-0,56	ARCX	7		
-iShares US Technology ETF (ARCX:IYW)	151,08 USD	27,36	ARCX			
-iShares US Telecommunications ETF (BATS:IYZ)	20,88 USD	-3,92	BATS			
-iShares US Treasury Bond ETF (BATS:GOVT)	22,75 USD	3,33	BATS			
-iShares US Utilities ETF (ARCX:IDU)	88,84 USD	16,08	ARCX			
-iShares UK Dividend ETF GBP Dist (XLON:IUKD)	720,50 GBX	6,59	XLON	6		
-iShares UK Property ETF GBP Dist (XLON:IUKP)	455,55 GBX	-0,10	XLON	6		
-iShares US Aggregate Bond ETF EUR H Acc (XLON:IUAE)	4,64 EUR	-0,82	XLON	4		
-iShares US Consumer Discretionary ETF (ARCX:IYC)	79,88 USD	9,27	ARCX			
-iShares US Consumer Staples ETF (ARCX:IYK)	65,58 USD	7,17	ARCX			
-iShares US Property Yield ETF USD Dist EUR (XAMS:IUSP)	25,72 EUR	0,14	XAMS	7		
 iShares € Govt Bond 7-10yr ETF EUR Acc (XETR:SXRQ)	146,51 EUR	-1,76	XETR	4		
 iShares Core EURO STOXX 50 ETF EUR Acc GBP (XLON:CS51)	15 031,00 GBX	9,00	XLON	6		
 iShares Dow Jones Indust Avg ETF USD Acc EUR (XETR:SXRU)	428,55 EUR	6,22	XETR	6		
