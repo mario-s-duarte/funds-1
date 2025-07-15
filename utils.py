@@ -12,7 +12,7 @@ def load_data():
     exchange_rates.head()
 
     df_quotes = pd.read_csv("ft_quotes.csv",index_col=0,parse_dates=True).sort_index(ascending=True).ffill().dropna(axis=1)
-    df_quotes.index = df_quotes.index.date
+    df_quotes.index = pd.to_datetime(df_quotes.index).map(lambda x: x.date())
 
 
     df_funds = pd.read_csv("ft_funds_perform.csv", index_col=0)[['name','currency']].rename(columns={'name':'Name','currency':'Currency'})
