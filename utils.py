@@ -6,7 +6,7 @@ def load_data():
     
     #Get the Exchange Rates
     exchange_rates_csv = 'exchange_rates.csv'
-    exchange_rates = pd.read_csv(exchange_rates_csv ,sep=';',parse_dates=[0])
+    exchange_rates = pd.read_csv(exchange_rates_csv ,sep=',',parse_dates=[0])
     exchange_rates['Date'] = exchange_rates['Date'].apply(lambda x: x.date())
     exchange_rates = exchange_rates.set_index('Date')['USD2EUR']
     exchange_rates.head()
